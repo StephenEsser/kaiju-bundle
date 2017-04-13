@@ -8,6 +8,15 @@
     "isBlock": {
       "type": "Boolean"
     },
+    "isCompact": {
+      "type": "Boolean"
+    },
+    "isDisabled": {
+      "type": "Boolean"
+    },
+    "href": {
+      "type": "String"
+    },
     "text": {
       "type": "String",
       "default": "Button"
