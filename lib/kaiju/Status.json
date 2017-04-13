@@ -1,0 +1,18 @@
+{
+  "name": "Status",
+  "library": "terra-status",
+  "display": "Status",
+  "description": "Provides a customizable color indictor to signify a specific condition",
+  "group": "Utilities",
+  "properties": {
+    "color": {
+      "type": "String"
+    },
+    "children": {
+      "type": "Array",
+      "schema": {
+        "type": "Component"
+      }
+    }
+  }
+}
