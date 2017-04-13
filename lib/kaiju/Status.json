@@ -6,7 +6,8 @@
   "group": "Utilities",
   "properties": {
     "color": {
-      "type": "String"
+      "type": "String",
+      "default": "red"
     },
     "children": {
       "type": "Array",
