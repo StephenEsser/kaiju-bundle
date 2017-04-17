@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/StephenEsser/kaiju-bundle/issues"
   },
-  "homepage": "https://github.com/StephenEsser/kaiju-bundle#readme"
+  "homepage": "https://github.com/StephenEsser/kaiju-bundle#readme",
+  "dependencies": {
+    "terra-badge": "^0.1.0",
+    "terra-button": "^0.2.0",
+    "terra-progress-bar": "^0.1.0",
+    "terra-status": "^0.1.0"
+  }
 }
