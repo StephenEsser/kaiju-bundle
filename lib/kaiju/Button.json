@@ -20,6 +20,32 @@
     "text": {
       "type": "String",
       "default": "Button"
+    },
+    "variant": {
+      "type": "CodifiedList",
+      "default": "default",
+      "options": [
+        {
+          "display": "default",
+          "value": "default",
+          "type": "String"
+        },
+        {
+          "display": "primary",
+          "value": "primary",
+          "type": "String"
+        },
+        {
+          "display": "secondary",
+          "value": "secondary",
+          "type": "String"
+        },
+        {
+          "display": "link",
+          "value": "link",
+          "type": "String"
+        }
+      ]
     }
   }
 }
