@@ -6,7 +6,8 @@
   "group": "Utilities",
   "properties": {
     "text": {
-      "type": "String"
+      "type": "String",
+      "default": "Badge"
     }
   }
 }
