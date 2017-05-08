@@ -1,0 +1,52 @@
+{
+  "name": "Image",
+  "library": "terra-image",
+  "display": "Image",
+  "description": "Provides a flexible image container",
+  "group": "Utilities",
+  "properties": {
+    "src": {
+      "display": "Source",
+      "type": "String"
+    },
+    "alt": {
+      "display": "Alternative text",
+      "type": "String"
+    },
+    "height": {
+      "type": "String"
+    },
+    "width": {
+      "type": "String"
+    },
+    "isFluid": {
+      "type": "Boolean"
+    },
+    "variant": {
+      "type": "CodifiedList",
+      "default": "default",
+      "options": [
+        {
+          "display": "default",
+          "value": "default",
+          "type": "String"
+        },
+        {
+          "display": "Rounded",
+          "value": "rounded",
+          "type": "String"
+        },
+        {
+          "display": "Circle",
+          "value": "circle",
+          "type": "String"
+        },
+        {
+          "display": "Thumbnail",
+          "value": "thumbnail",
+          "type": "String"
+        }
+      ]
+    }
+  }
+}
