@@ -1,0 +1,72 @@
+{
+  "name": "SlidePanel",
+  "library": "terra-slide-panel",
+  "display": "Slide Panel",
+  "description": "Provides a progessive disclosure mechanism for cotent",
+  "group": "SlidePanel",
+  "properties": {
+    "mainContent": {
+      "type": "Component"
+    },
+    "panelContent": {
+      "type": "Component"
+    },
+    "isOpen": {
+      "type": "Boolean"
+    },
+    "isFullscreen": {
+      "type": "Boolean"
+    },
+    "fill": {
+      "type": "Boolean"
+    },
+    "panelBehavior": {
+      "type": "CodifiedList",
+      "default": "default",
+      "options": [
+        {
+          "display": "Overlay",
+          "value": "overlay",
+          "type": "String"
+        },
+        {
+          "display": "Squish",
+          "value": "squish",
+          "type": "String"
+        }
+      ]
+    },
+    "panelPosition": {
+      "type": "CodifiedList",
+      "default": "default",
+      "options": [
+        {
+          "display": "Start",
+          "value": "start",
+          "type": "String"
+        },
+        {
+          "display": "End",
+          "value": "end",
+          "type": "String"
+        }
+      ]
+    },
+    "panelSize": {
+      "type": "CodifiedList",
+      "default": "default",
+      "options": [
+        {
+          "display": "Small",
+          "value": "small",
+          "type": "String"
+        },
+        {
+          "display": "Large",
+          "value": "large",
+          "type": "String"
+        }
+      ]
+    }
+  }
+}
