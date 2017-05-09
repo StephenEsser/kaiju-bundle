@@ -30,8 +30,10 @@
       "default": {
         "type": "terra-image::Image",
         "props": {
-          "src": "http://lorempixel.com/50/50/animals/7/",
-          "alt": "patient-image"
+          "src": "https://cdn.pixabay.com/photo/2014/04/03/10/32/businessman-310819_960_720.png",
+          "alt": "patient-image",
+          "height": "50px",
+          "width": "50px"
         }
       }
     },
