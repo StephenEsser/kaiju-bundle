@@ -11,7 +11,7 @@
     },
     "age": {
       "type": "String",
-      "default": "25"
+      "default": "25 Years"
     },
     "dateOfBirthLabel": {
       "type": "String",
