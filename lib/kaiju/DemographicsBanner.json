@@ -26,7 +26,14 @@
       "default": "Male"
     },
     "photo": {
-      "type": "Component"
+      "type": "Component",
+      "default": {
+        "type": "terra-image::Image",
+        "props": {
+          "src": "http://lorempixel.com/50/50/animals/7/",
+          "alt": "patient-image"
+        }
+      }
     },
     "gestationalAgeLabel": {
       "type": "String"
@@ -44,7 +51,10 @@
       "type": "String"
     },
     "applicationContent": {
-      "type": "Component"
+      "type": "Array",
+      "schema": {
+        "type": "Component"
+      }
     }
   }
 }
