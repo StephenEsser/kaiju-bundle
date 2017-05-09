@@ -22,7 +22,7 @@
     },
     "panelBehavior": {
       "type": "CodifiedList",
-      "default": "default",
+      "default": "overlay",
       "options": [
         {
           "display": "Overlay",
@@ -38,7 +38,7 @@
     },
     "panelPosition": {
       "type": "CodifiedList",
-      "default": "default",
+      "default": "end",
       "options": [
         {
           "display": "Start",
@@ -54,7 +54,7 @@
     },
     "panelSize": {
       "type": "CodifiedList",
-      "default": "default",
+      "default": "small",
       "options": [
         {
           "display": "Small",
