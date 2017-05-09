@@ -1,0 +1,50 @@
+{
+  "name": "DemographicsBanner",
+  "library": "terra-demographics-banner",
+  "display": "Demographics Banner",
+  "description": "Displays demographics information",
+  "group": "Content",
+  "properties": {
+    "personName": {
+      "type": "String",
+      "default": "John Smith"
+    },
+    "age": {
+      "type": "String",
+      "default": "25"
+    },
+    "dateOfBirthLabel": {
+      "type": "String",
+      "default": "DOB"
+    },
+    "dateOfBirth": {
+      "type": "String",
+      "default": "May 9, 1993"
+    },
+    "gender": {
+      "type": "String",
+      "default": "Male"
+    },
+    "photo": {
+      "type": "Component"
+    },
+    "gestationalAgeLabel": {
+      "type": "String"
+    },
+    "gestationalAge": {
+      "type": "String"
+    },
+    "postMenstrualAgeLabel": {
+      "type": "String"
+    },
+    "postMenstrualAge": {
+      "type": "String"
+    },
+    "deceasedDate": {
+      "type": "String"
+    },
+    "applicationContent": {
+      "type": "Component"
+    }
+  }
+}
