@@ -24,6 +24,7 @@
     "terra-arrange": "^0.2.1",
     "terra-badge": "^0.2.0",
     "terra-button": "^0.2.0",
+    "terra-demographics-banner": "^0.1.0",
     "terra-image": "^0.1.0",
     "terra-progress-bar": "^0.2.0",
     "terra-slide-panel": "^0.1.0",
