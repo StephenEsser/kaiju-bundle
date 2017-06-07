@@ -6,15 +6,18 @@
   "group": "Utilities",
   "properties": {
     "color": {
-      "type": "String"
+      "type": "String",
+      "display": "Color"
     },
     "max": {
       "type": "Integer",
-      "default": 100
+      "default": 100,
+      "display": "Max value"
     },
     "value": {
       "type": "Integer",
-      "default": 20
+      "default": 20,
+      "display": "Default value"
     }
   }
 }

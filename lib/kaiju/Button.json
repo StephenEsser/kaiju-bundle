@@ -6,13 +6,16 @@
   "group": "Buttons",
   "properties": {
     "isBlock": {
-      "type": "Boolean"
+      "type": "Boolean",
+      "display": "Block"
     },
     "isCompact": {
-      "type": "Boolean"
+      "type": "Boolean",
+      "display": "Compact"
     },
     "isDisabled": {
-      "type": "Boolean"
+      "type": "Boolean",
+      "display": "Disabled"
     },
     "href": {
       "type": "String"

@@ -16,17 +16,21 @@
       "default": "alt-text"
     },
     "height": {
-      "type": "String"
+      "type": "String",
+      "display": "Height"
     },
     "width": {
-      "type": "String"
+      "type": "String",
+      "display": "Width"
     },
     "isFluid": {
-      "type": "Boolean"
+      "type": "Boolean",
+      "display": "Fluid"
     },
     "variant": {
       "type": "CodifiedList",
       "default": "default",
+      "display": "Variant",
       "options": [
         {
           "display": "default",

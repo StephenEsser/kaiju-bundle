@@ -6,16 +6,20 @@
   "group": "Utilities",
   "properties": {
     "fitStart": {
-      "type": "Component"
+      "type": "Component",
+      "display": "Start Component"
     },
     "fill": {
-      "type": "Component"
+      "type": "Component",
+      "display": "Middle Component"
     },
     "fitEnd": {
-      "type": "Component"
+      "type": "Component",
+      "display": "End Component"
     },
     "align": {
       "type": "CodifiedList",
+      "display": "Alignment",
       "options": [
         {
           "display": "center",
@@ -36,6 +40,7 @@
     },
     "alignFitStart": {
       "type": "CodifiedList",
+      "display": "Start alignment",
       "options": [
         {
           "display": "center",
@@ -56,6 +61,7 @@
     },
     "alignFitEnd": {
       "type": "CodifiedList",
+      "display": "End alignment",
       "options": [
         {
           "display": "center",
@@ -76,6 +82,7 @@
     },
     "alignFill": {
       "type": "CodifiedList",
+      "display": "Middle alignment",
       "options": [
         {
           "display": "center",

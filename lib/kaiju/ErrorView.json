@@ -7,18 +7,22 @@
   "properties": {
     "name": {
       "type": "String",
-      "default": "Error Name"
+      "default": "Error",
+      "display": "Error name"
     },
     "description": {
       "type": "String",
-      "default": "Error description"
+      "default": "Error description",
+      "display": "Description"
     },
     "buttonText": {
       "type": "String",
-      "default": "Button text"
+      "default": "Button text",
+      "display": "Callback button text"
     },
     "isGlyphHidden": {
-      "type": "Boolean"
+      "type": "Boolean",
+      "display": "Hide glyph"
     }
   }
 }

@@ -7,26 +7,32 @@
   "properties": {
     "personName": {
       "type": "String",
-      "default": "John Smith"
+      "default": "John Smith",
+      "display": "Person name"
     },
     "age": {
       "type": "String",
-      "default": "25 Years"
+      "default": "25 Years",
+      "display": "Age"
     },
     "dateOfBirthLabel": {
       "type": "String",
-      "default": "DOB"
+      "default": "DOB",
+      "display": "DOB Label"
     },
     "dateOfBirth": {
       "type": "String",
-      "default": "May 9, 1993"
+      "default": "May 9, 1993",
+      "display": "Date of birth"
     },
     "gender": {
       "type": "String",
-      "default": "Male"
+      "default": "Male",
+      "display": "Gender"
     },
     "photo": {
       "type": "Component",
+      "display": "Photo",
       "default": {
         "type": "terra-image::Image",
         "props": {
@@ -38,22 +44,28 @@
       }
     },
     "gestationalAgeLabel": {
-      "type": "String"
+      "type": "String",
+      "display": "Gestational age label"
     },
     "gestationalAge": {
-      "type": "String"
+      "type": "String",
+      "display": "Gestational age"
     },
     "postMenstrualAgeLabel": {
-      "type": "String"
+      "type": "String",
+      "display": "Menstrual age label"
     },
     "postMenstrualAge": {
-      "type": "String"
+      "type": "String",
+      "display": "Post menstrual age"
     },
     "deceasedDate": {
-      "type": "String"
+      "type": "String",
+      "display": "Deceased date"
     },
     "applicationContent": {
       "type": "Array",
+      "display": "Additional content",
       "schema": {
         "type": "Component"
       }
