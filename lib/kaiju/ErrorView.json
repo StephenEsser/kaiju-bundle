@@ -1,0 +1,24 @@
+{
+  "name": "ErrorView",
+  "library": "terra-clinical-error-view",
+  "display": "Error View",
+  "description": "Displays an error message",
+  "group": "Indicators",
+  "properties": {
+    "name": {
+      "type": "String",
+      "default": "Error Name"
+    },
+    "description": {
+      "type": "String",
+      "default": "Error description"
+    },
+    "buttonText": {
+      "type": "String",
+      "default": "Button text"
+    },
+    "isGlyphHidden": {
+      "type": "Boolean"
+    }
+  }
+}
