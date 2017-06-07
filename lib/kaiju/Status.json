@@ -7,10 +7,12 @@
   "properties": {
     "color": {
       "type": "String",
-      "default": "red"
+      "default": "red",
+      "display": "Color"
     },
     "children": {
       "type": "Array",
+      "display": "Children",
       "schema": {
         "type": "Component"
       }

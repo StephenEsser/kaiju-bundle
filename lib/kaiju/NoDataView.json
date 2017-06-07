@@ -7,14 +7,17 @@
   "properties": {
     "heading": {
       "type": "String",
-      "default": "Title"
+      "default": "Title",
+      "display": "Header text"
     },
     "subtext": {
       "type": "String",
-      "default": "Subtext"
+      "default": "Subtext",
+      "display": "Subtext"
     },
     "isGlyphHidden": {
-      "type": "Boolean"
+      "type": "Boolean",
+      "display": "Hide glyph"
     }
   }
 }
