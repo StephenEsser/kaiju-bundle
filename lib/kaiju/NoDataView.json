@@ -1,0 +1,20 @@
+{
+  "name": "NoDataView",
+  "library": "terra-clinical-no-data-view",
+  "display": "No Data View",
+  "description": "Displays a message indicating no data",
+  "group": "Indicators",
+  "properties": {
+    "heading": {
+      "type": "String",
+      "default": "Title"
+    },
+    "subtext": {
+      "type": "String",
+      "default": "Subtext"
+    },
+    "isGlyphHidden": {
+      "type": "Boolean"
+    }
+  }
+}
