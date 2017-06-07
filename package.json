@@ -24,6 +24,7 @@
     "terra-arrange": "^0.4.x",
     "terra-badge": "^0.4.x",
     "terra-button": "^0.5.x",
+    "terra-clinical-error-view": "^0.1.1",
     "terra-clinical-header": "^0.1.x",
     "terra-demographics-banner": "^0.3.x",
     "terra-image": "^0.3.x",
