@@ -21,16 +21,16 @@
   },
   "homepage": "https://github.com/StephenEsser/kaiju-bundle#readme",
   "dependencies": {
-    "terra-arrange": "^0.6.x",
-    "terra-badge": "^0.6.x",
-    "terra-button": "^0.7.x",
-    "terra-clinical-error-view": "^0.1.x",
-    "terra-clinical-header": "^0.1.x",
-    "terra-clinical-no-data-view": "^0.1.x",
-    "terra-demographics-banner": "^0.6.x",
-    "terra-image": "^0.5.x",
-    "terra-progress-bar": "^0.6.x",
-    "terra-slide-panel": "^0.5.x",
-    "terra-status": "^0.6.x"
+    "terra-arrange": "^0.x",
+    "terra-badge": "^0.x",
+    "terra-button": "^0.x",
+    "terra-clinical-error-view": "^0.x",
+    "terra-clinical-header": "^0.x",
+    "terra-clinical-no-data-view": "^0.x",
+    "terra-demographics-banner": "^0.x",
+    "terra-image": "^0.x",
+    "terra-progress-bar": "^0.x",
+    "terra-slide-panel": "^0.x",
+    "terra-status": "^0.x"
   }
 }
