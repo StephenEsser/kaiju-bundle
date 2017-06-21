@@ -6,22 +6,18 @@
   "group": "Utilities",
   "properties": {
     "src": {
-      "display": "Source",
       "type": "String",
       "default": "http://lorempixel.com/50/50/animals/7/"
     },
     "alt": {
-      "display": "Alternative text",
       "type": "String",
       "default": "alt-text"
     },
     "height": {
-      "type": "String",
-      "display": "Height"
+      "type": "String"
     },
     "width": {
-      "type": "String",
-      "display": "Width"
+      "type": "String"
     },
     "isFluid": {
       "type": "Boolean",
@@ -30,7 +26,6 @@
     "variant": {
       "type": "CodifiedList",
       "default": "default",
-      "display": "Variant",
       "options": [
         {
           "display": "default",

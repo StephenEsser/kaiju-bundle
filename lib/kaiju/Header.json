@@ -7,8 +7,7 @@
   "properties": {
     "title": {
       "type": "String",
-      "default": "Title",
-      "display": "Title"
+      "default": "Title"
     }
   }
 }

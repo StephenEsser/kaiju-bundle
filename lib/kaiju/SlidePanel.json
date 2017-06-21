@@ -6,12 +6,10 @@
   "group": "SlidePanel",
   "properties": {
     "mainContent": {
-      "type": "Component",
-      "display": "Main content"
+      "type": "Component"
     },
     "panelContent": {
-      "type": "Component",
-      "display": "Panel content"
+      "type": "Component"
     },
     "isOpen": {
       "type": "Boolean",
@@ -22,13 +20,11 @@
       "display": "Full screen"
     },
     "fill": {
-      "type": "Boolean",
-      "display": "Fill container"
+      "type": "Boolean"
     },
     "panelBehavior": {
       "type": "CodifiedList",
       "default": "overlay",
-      "display": "Panel behavior",
       "options": [
         {
           "display": "Overlay",
@@ -44,7 +40,6 @@
     },
     "panelPosition": {
       "type": "CodifiedList",
-      "display": "Panel position",
       "default": "end",
       "options": [
         {
@@ -62,7 +57,6 @@
     "panelSize": {
       "type": "CodifiedList",
       "default": "small",
-      "display": "Panel size",
       "options": [
         {
           "display": "Small",
