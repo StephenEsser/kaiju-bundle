@@ -9,11 +9,11 @@
       "type": "String"
     },
     "max": {
-      "type": "Integer",
+      "type": "Number",
       "default": 100
     },
     "value": {
-      "type": "Integer",
+      "type": "Number",
       "default": 20
     }
   }
