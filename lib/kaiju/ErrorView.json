@@ -18,7 +18,7 @@
       "default": "Button text"
     },
     "isGlyphHidden": {
-      "type": "Boolean",
+      "type": "Bool",
       "display": "Hide glyph"
     }
   }

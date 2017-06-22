@@ -12,18 +12,19 @@
       "type": "Component"
     },
     "isOpen": {
-      "type": "Boolean",
+      "type": "Bool",
       "display": "Open"
     },
     "isFullscreen": {
-      "type": "Boolean",
+      "type": "Bool",
       "display": "Full screen"
     },
     "fill": {
-      "type": "Boolean"
+      "type": "Bool"
     },
     "panelBehavior": {
-      "type": "CodifiedList",
+      "type": "String",
+      "form_type": "CodifiedList",
       "default": "overlay",
       "options": [
         {
@@ -39,7 +40,8 @@
       ]
     },
     "panelPosition": {
-      "type": "CodifiedList",
+      "type": "String",
+      "form_type": "CodifiedList",
       "default": "end",
       "options": [
         {
@@ -55,7 +57,8 @@
       ]
     },
     "panelSize": {
-      "type": "CodifiedList",
+      "type": "String",
+      "form_type": "CodifiedList",
       "default": "small",
       "options": [
         {

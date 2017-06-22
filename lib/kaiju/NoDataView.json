@@ -14,7 +14,7 @@
       "default": "Subtext"
     },
     "isGlyphHidden": {
-      "type": "Boolean",
+      "type": "Bool",
       "display": "Hide glyph"
     }
   }

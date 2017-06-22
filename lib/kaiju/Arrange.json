@@ -18,7 +18,8 @@
       "display": "End Component"
     },
     "align": {
-      "type": "CodifiedList",
+      "type": "String",
+      "form_type": "CodifiedList",
       "display": "Alignment",
       "options": [
         {
@@ -39,7 +40,8 @@
       ]
     },
     "alignFitStart": {
-      "type": "CodifiedList",
+      "type": "String",
+      "form_type": "CodifiedList",
       "display": "Start alignment",
       "options": [
         {
@@ -60,7 +62,8 @@
       ]
     },
     "alignFitEnd": {
-      "type": "CodifiedList",
+      "form": "String",
+      "form_type": "CodifiedList",
       "display": "End alignment",
       "options": [
         {
@@ -81,7 +84,8 @@
       ]
     },
     "alignFill": {
-      "type": "CodifiedList",
+      "type": "String",
+      "form_type": "CodifiedList",
       "display": "Middle alignment",
       "options": [
         {
