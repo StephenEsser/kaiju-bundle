@@ -6,15 +6,15 @@
   "group": "Buttons",
   "properties": {
     "isBlock": {
-      "type": "Boolean",
+      "type": "Bool",
       "display": "Block"
     },
     "isCompact": {
-      "type": "Boolean",
+      "type": "Bool",
       "display": "Compact"
     },
     "isDisabled": {
-      "type": "Boolean",
+      "type": "Bool",
       "display": "Disabled"
     },
     "href": {
@@ -25,7 +25,8 @@
       "default": "Button"
     },
     "variant": {
-      "type": "CodifiedList",
+      "type": "String",
+      "form_type": "CodifiedList",
       "default": "default",
       "options": [
         {

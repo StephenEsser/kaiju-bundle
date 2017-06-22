@@ -20,11 +20,12 @@
       "type": "String"
     },
     "isFluid": {
-      "type": "Boolean",
+      "type": "Bool",
       "display": "Fluid"
     },
     "variant": {
-      "type": "CodifiedList",
+      "type": "String",
+      "form_type": "CodifiedList",
       "default": "default",
       "options": [
         {
