@@ -62,7 +62,7 @@
       ]
     },
     "alignFitEnd": {
-      "form": "String",
+      "type": "String",
       "form_type": "CodifiedList",
       "display": "End alignment",
       "options": [
