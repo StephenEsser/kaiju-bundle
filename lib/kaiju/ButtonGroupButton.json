@@ -1,0 +1,30 @@
+{
+  "name": "ButtonGroupButton",
+  "library": "terra-button-group",
+  "display": "Button Group Button",
+  "description": "A Button specifically for the Button Group",
+  "group": "Buttons",
+  "properties": {
+    "isSelected": {
+      "type": "Bool",
+      "display": "Selected"
+    },
+    "text": {
+      "type": "String",
+      "default": "Button"
+    },
+    "icon": {
+      "type": "Component"
+    },
+    "isReversed": {
+      "type": "Bool",
+      "display": "Reversed"
+    },
+    "children": {
+      "type": "Array",
+      "schema": {
+        "type": "Component"
+      }
+    }
+  }
+}
