@@ -23,6 +23,7 @@
   "dependencies": {
     "terra-arrange": "^0.x",
     "terra-badge": "^0.x",
+    "terra-base": "^0.x",
     "terra-button": "^0.x",
     "terra-clinical-error-view": "^0.x",
     "terra-clinical-header": "^0.x",
