@@ -19,12 +19,6 @@
     "isReversed": {
       "type": "Bool",
       "display": "Reversed"
-    },
-    "children": {
-      "type": "Array",
-      "schema": {
-        "type": "Component"
-      }
     }
   }
 }
