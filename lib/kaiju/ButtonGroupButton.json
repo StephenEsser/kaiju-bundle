@@ -4,6 +4,8 @@
   "display": "Button Group Button",
   "description": "A Button specifically for the Button Group",
   "group": "Buttons",
+  "import_from": "terra-button",
+  "parent_component": "ButtonGroup",
   "properties": {
     "isSelected": {
       "type": "Bool",
