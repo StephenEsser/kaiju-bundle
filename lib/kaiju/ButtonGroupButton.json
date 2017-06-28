@@ -1,11 +1,11 @@
 {
-  "name": "ButtonGroupButton",
+  "name": "Button",
   "library": "terra-button-group",
   "display": "Button Group Button",
   "description": "A Button specifically for the Button Group",
   "group": "Buttons",
   "import_from": "terra-button-group",
-  "parent_component": "ButtonGroup",
+  "import": "ButtonGroup",
   "properties": {
     "isSelected": {
       "type": "Bool",
