@@ -20,7 +20,7 @@
     "url": "https://github.com/StephenEsser/kaiju-bundle/issues"
   },
   "homepage": "https://github.com/StephenEsser/kaiju-bundle#readme",
-  "peerDependencies": {
+  "dependencies": {
     "terra-arrange": "^1.0.0",
     "terra-badge": "^1.0.0",
     "terra-button": "^1.0.0",
