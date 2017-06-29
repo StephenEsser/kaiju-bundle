@@ -23,7 +23,9 @@
   "dependencies": {
     "terra-arrange": "^1.0.0",
     "terra-badge": "^1.0.0",
+    "terra-base": "^1.0.0",
     "terra-button": "^1.0.0",
+    "terra-button-group": "^1.0.0",
     "terra-clinical-error-view": "^1.0.0",
     "terra-clinical-header": "^1.0.0",
     "terra-clinical-no-data-view": "^1.0.0",

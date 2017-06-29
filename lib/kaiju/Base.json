@@ -1,0 +1,62 @@
+{
+  "name": "Base",
+  "library": "terra-base",
+  "display": "Base",
+  "description": "Sets Global Styles",
+  "group": "Utilities",
+  "properties": {
+    "children": {
+      "type": "Array",
+      "schema":{
+        "type": "Component"
+      }
+    },
+    "locale": {
+      "type": "String",
+      "form_type": "CodifiedList",
+      "default": "en-US",
+      "options": [
+        {
+          "display": "en",
+          "value": "en",
+          "type": "String"
+        },
+        {
+          "display": "en-GB",
+          "value": "en-GB",
+          "type": "String"
+        },
+        {
+          "display": "en-US",
+          "value": "en-US",
+          "type": "String"
+        },
+        {
+          "display": "de",
+          "value": "de",
+          "type": "String"
+        },
+        {
+          "display": "es",
+          "value": "es",
+          "type": "String"
+        },
+        {
+          "display": "fr",
+          "value": "fr",
+          "type": "String"
+        },
+        {
+          "display": "pt",
+          "value": "pt",
+          "type": "String"
+        },
+        {
+          "display": "fi-FL",
+          "value": "fi-FL",
+          "type": "String"
+        }
+      ]
+    }
+  }
+}
