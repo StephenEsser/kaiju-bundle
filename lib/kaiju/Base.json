@@ -58,8 +58,8 @@
         }
       ]
     },
-    "translationsLoadingPlaceholder": {
-      "type": "Component"
-    }
+    // "translationsLoadingPlaceholder": {
+    //   "type": "Component"
+    // }
   }
 }
