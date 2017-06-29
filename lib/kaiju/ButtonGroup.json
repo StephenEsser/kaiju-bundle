@@ -9,7 +9,27 @@
       "type": "Array",
       "schema": {
         "type": "Component"
-      }
+      },
+      "default": [
+        {
+          "type": "terra-button-group::Button",
+          "properties": {
+            "text": "Button A"
+          }
+        },
+        {
+          "type": "terra-button-group::Button",
+          "properties": {
+            "text": "Button B"
+          }
+        },
+        {
+          "type": "terra-button-group::Button",
+          "properties": {
+            "text": "Button C"
+          }
+        }
+      ]
     },
     "isCompact": {
       "type": "Bool",
