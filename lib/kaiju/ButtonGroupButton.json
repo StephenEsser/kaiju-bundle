@@ -14,9 +14,6 @@
       "type": "String",
       "default": "Button"
     },
-    // "icon": {
-    //   "type": "Component"
-    // },
     "isReversed": {
       "type": "Bool",
       "display": "Reversed"

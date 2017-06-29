@@ -57,9 +57,6 @@
           "type": "String"
         }
       ]
-    },
-    // "translationsLoadingPlaceholder": {
-    //   "type": "Component"
-    // }
+    }
   }
 }
