@@ -16,7 +16,8 @@
       "default": "Button"
     },
     "icon": {
-      "type": "Component"
+      "type": "Component",
+      "hidden":true
     },
     "isReversed": {
       "type": "Bool",
