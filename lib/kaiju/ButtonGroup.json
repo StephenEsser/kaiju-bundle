@@ -13,19 +13,19 @@
       "default": [
         {
           "type": "terra-button-group::Button",
-          "properties": {
+          "props": {
             "text": "Button A"
           }
         },
         {
           "type": "terra-button-group::Button",
-          "properties": {
+          "props": {
             "text": "Button B"
           }
         },
         {
           "type": "terra-button-group::Button",
-          "properties": {
+          "props": {
             "text": "Button C"
           }
         }
