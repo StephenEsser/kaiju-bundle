@@ -1,0 +1,35 @@
+{
+  "name": "Field",
+  "library": "terra-form",
+  "display": "Field",
+  "import_from": "terra-form/lib/Field",
+  "description": "Generic form field component which handles the layout of a standard form field including errors, help text, label, value and widget placement.",
+  "group": "Forms",
+  "properties": {
+    "children": {
+      "type": "Array",
+      "schema":{
+        "type": "Component"
+      }
+    },
+    "error": {
+      "type": "String"
+    },
+    "help": {
+      "type": "String"
+    },
+    "htmlFor": {
+      "type": "String"
+    },
+    "isInline": {
+      "type": "Bool",
+      "display": "Inline"
+    },
+    "label": {
+      "type": "String"
+    },
+    "required": {
+      "type": "Bool"
+    }
+  }
+}

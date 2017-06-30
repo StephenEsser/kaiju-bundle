@@ -1,0 +1,49 @@
+{
+  "name": "Control",
+  "library": "terra-form",
+  "display": "Control",
+  "import_from": "terra-form/lib/Control",
+  "description": "A Control represents a radio or checkbox widget with a label. Uses the Input component.",
+  "group": "Forms",
+  "properties": {
+    "type": {
+      "type": "String",
+      "form_type": "CodifiedList",
+      "default": "checkbox",
+      "options": [
+        {
+          "display": "checkbox",
+          "value": "checkbox",
+          "type": "String"
+        },
+        {
+          "display": "radio",
+          "value": "radio",
+          "type": "String"
+        }
+      ]
+    },
+    "checked": {
+      "type": "Bool"
+    },
+    "defaultChecked": {
+      "type": "Bool"
+    },
+    "id": {
+      "type": "String"
+    },
+    "isInline": {
+      "type": "Bool",
+      "display": "Inline"
+    },
+    "labelText": {
+      "type": "String"
+    },
+    "name" : {
+      "type": "String"
+    },
+    "value": {
+      "type": "String"
+    }
+  }
+}

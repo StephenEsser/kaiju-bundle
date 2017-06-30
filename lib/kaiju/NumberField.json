@@ -1,0 +1,41 @@
+{
+  "name": "NumberField",
+  "library": "terra-form",
+  "display": "Number Field",
+  "import_from": "terra-form/lib/NumberField",
+  "description": "Number Field component for rendering numeric inputs (inputs with type=number) with standard structured style. Uses the Input element. Also exposes attributes specific to the input.",
+  "group": "Forms",
+  "properties": {
+    "defaultValue": {
+      "type": "Number"
+    },
+    "error": {
+      "type": "String"
+    },
+    "help": {
+      "type": "String"
+    },
+    "inputId": {
+      "type": "String"
+    },
+    "isInline": {
+      "type": "Bool",
+      "display": "Inline"
+    },
+    "label": {
+      "type": "String"
+    },
+    "max": {
+      "type": "Number"
+    },
+    "min": {
+      "type": "Number"
+    },
+    "name" : {
+      "type": "String"
+    },
+    "value": {
+      "type": "Number"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Input",
+  "library": "terra-form",
+  "display": "Input",
+  "import_from": "terra-form/lib/Input",
+  "description": "Generic input which represents an HTML input element directly.",
+  "group": "Forms",
+  "properties": {
+    "defaultValue": {
+      "type": "String"
+    },
+    "name": {
+      "type": "String"
+    },
+    "required": {
+      "type": "Bool"
+    },
+    "value": {
+      "type": "String"
+    }
+  }
+}

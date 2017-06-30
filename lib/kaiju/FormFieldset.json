@@ -1,0 +1,32 @@
+{
+  "name": "Fieldset",
+  "library": "terra-form",
+  "display": "Fieldset",
+  "import_from": "terra-form/lib/Fieldset",
+  "description": "Generic form fieldset component which handles the layout of a standard form fieldset including errors, help text, legend, value and widget placement.",
+  "group": "Forms",
+  "properties": {
+    "children": {
+      "type": "Array",
+      "schema":{
+        "type": "Component"
+      }
+    },
+    "error": {
+      "type": "String"
+    },
+    "help": {
+      "type": "String"
+    },
+    "isInline": {
+      "type": "Bool",
+      "display": "Inline"
+    },
+    "legend": {
+      "type": "String"
+    },
+    "required": {
+      "type": "Bool"
+    }
+  }
+}
