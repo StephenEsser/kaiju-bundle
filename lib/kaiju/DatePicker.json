@@ -1,0 +1,38 @@
+{
+  "name": "DatePicker",
+  "library": "terra-date-picker",
+  "display": "Date Picker",
+  "description": "Terra-date-picker is a controlled input component that provides users a way to enter or select a date from the date picker. Terra-date-picker is essentially a wrapper for react-datepicker and leverages many of its props",
+  "group": "Forms",
+  "properties": {
+    "excludeDates": {
+      "type": "Array",
+      "schema": {
+        "type": "String",
+        "form_type": "String"
+      }
+    },
+    "includeDates": {
+      "type": "Array",
+      "schema": {
+        "type": "String",
+        "form_type": "String"
+      }
+    },
+    "maxDate": {
+      "type": "String",
+      "form_type": "String"
+    },
+    "minDate": {
+      "type": "String",
+      "form_type": "String"
+    },
+    "name": {
+      "type": "String"
+    },
+    "selectedDate": {
+      "type": "String",
+      "form_type": "String"
+    }
+  }
+}
