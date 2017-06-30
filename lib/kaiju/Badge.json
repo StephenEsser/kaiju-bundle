@@ -14,6 +14,11 @@
       "form_type": "CodifiedList",
       "options": [
         {
+          "display": "default",
+          "value": "default",
+          "type": "String"
+        },
+        {
           "display": "primary",
           "value": "primary",
           "type": "String"
