@@ -7,14 +7,14 @@
   "properties": {
     "excludeDates": {
       "type": "Array",
-      "scheme": {
+      "schema": {
         "type": "String",
         "form_type": "String"
       }
     },
     "includeDates": {
       "type": "Array",
-      "scheme": {
+      "schema": {
         "type": "String",
         "form_type": "String"
       }
