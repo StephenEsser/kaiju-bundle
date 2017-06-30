@@ -28,7 +28,8 @@
       "form_type": "String"
     },
     "name": {
-      "type": "String"
+      "type": "String",
+      "default": "Date Picker"
     },
     "selectedDate": {
       "type": "String",
