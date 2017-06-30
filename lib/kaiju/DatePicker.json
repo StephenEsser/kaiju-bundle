@@ -9,30 +9,30 @@
       "type": "Array",
       "scheme": {
         "type": "String",
-        "form_type": "DatePicker"
+        "form_type": "String"
       }
     },
     "includeDates": {
       "type": "Array",
       "scheme": {
         "type": "String",
-        "form_type": "DatePicker"
+        "form_type": "String"
       }
     },
     "maxDate": {
       "type": "String",
-      "form_type": "DatePicker"
+      "form_type": "String"
     },
     "minDate": {
       "type": "String",
-      "form_type": "DatePicker"
+      "form_type": "String"
     },
     "name": {
       "type": "String"
     },
     "selectedDate": {
       "type": "String",
-      "form_type": "DatePicker"
+      "form_type": "String"
     }
   }
 }
