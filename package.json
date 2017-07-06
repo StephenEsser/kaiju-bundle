@@ -37,6 +37,7 @@
     "terra-progress-bar": "^1.0.0",
     "terra-search-field": "^1.0.0",
     "terra-slide-panel": "^1.0.0",
-    "terra-status": "^1.0.0"
+    "terra-status": "^1.0.0",
+    "terra-text": "^1.0.0"
   }
 }
