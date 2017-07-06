@@ -1,0 +1,24 @@
+{
+  "name": "Toggle",
+  "library": "terra-toggle",
+  "display": "Toggle",
+  "description": "Transitions content",
+  "group": "Content",
+  "properties": {
+    "isOpen": {
+      "type": "Bool",
+      "default": true,
+      "display": "Open"
+    },
+    "isAnimated": {
+      "type": "Bool",
+      "display": "Animated"
+    },
+    "children": {
+      "type": "Array",
+      "schema": {
+        "type": "Component"
+      }
+    }
+  }
+}
