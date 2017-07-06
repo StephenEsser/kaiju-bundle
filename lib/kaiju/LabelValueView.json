@@ -2,7 +2,7 @@
   "name": "LabelValueView",
   "library": "terra-clinical-label-value-view",
   "display": "Label Value View",
-  "description": "Displaus a label and associated value",
+  "description": "Displays a label and associated value",
   "group": "Content",
   "properties": {
     "label": {

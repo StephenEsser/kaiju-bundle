@@ -1,0 +1,78 @@
+{
+  "name": "ItemView",
+  "library": "terra-clinical-item-view",
+  "display": "Item View",
+  "description": "Displays a label and associated value",
+  "group": "Content",
+  "properties": {
+    "isTruncated": {
+      "type": "Bool"
+    },
+    "layout": {
+      "type": "String",
+      "form_type": "CodifiedList",
+      "default": "oneColumn",
+      "options": [
+        {
+          "display": "oneColumn",
+          "value": "oneColumn",
+          "type": "String"
+        },
+        {
+          "display": "twoColumns",
+          "value": "twoColumns",
+          "type": "String"
+        }
+      ]
+    },
+    "textEmphasis": {
+      "type": "String",
+      "form_type": "CodifiedList",
+      "default": "default",
+      "options": [
+        {
+          "display": "default",
+          "value": "default",
+          "type": "String"
+        },
+        {
+          "display": "start",
+          "value": "start",
+          "type": "String"
+        }
+      ]
+    },
+    "accessoryAlignment": {
+      "type": "String",
+      "form_type": "CodifiedList",
+      "default": "alignCenter",
+      "options": [
+        {
+          "display": "alignCenter",
+          "value": "alignCenter",
+          "type": "String"
+        },
+        {
+          "display": "alignTop",
+          "value": "alignTop",
+          "type": "String"
+        }
+      ]
+    },
+    "startAccessory": {
+      "type": "Component"
+    },
+    "endAccessory": {
+      "type": "Component"
+    },
+    "comment": {
+      "type": "Component"
+    },
+    "displays": {
+      "type": "Array",
+      "schema": {
+        "type": "Component"
+      }
+    }
+  }
+}

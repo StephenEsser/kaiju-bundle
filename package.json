@@ -29,6 +29,7 @@
     "terra-content-container": "^1.0.0",
     "terra-clinical-error-view": "^1.0.0",
     "terra-clinical-header": "^1.0.0",
+    "terra-clinical-item-view": "^1.0.0",
     "terra-clinical-label-value-view": "^1.0.0",
     "terra-clinical-no-data-view": "^1.0.0",
     "terra-date-picker": "^1.0.0",
