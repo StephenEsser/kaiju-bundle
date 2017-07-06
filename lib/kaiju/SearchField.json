@@ -1,0 +1,21 @@
+{
+  "name": "SearchField",
+  "library": "terra-search-field",
+  "display": "Search Field",
+  "description": "A styled search input with a debounce callback",
+  "group": "Utilities",
+  "properties": {
+    "placeholder": {
+      "type": "String",
+      "default": "Search..."
+    },
+    "minimumSearchTextLength": {
+      "type": "Number",
+      "default": 2
+    },
+    "searchDelay": {
+      "type": "Number",
+      "default": 250
+    }
+  }
+}
