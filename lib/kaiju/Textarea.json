@@ -1,0 +1,19 @@
+{
+  "name": "Textarea",
+  "library": "terra-form",
+  "display": "Input",
+  "description": "Input element",
+  "group": "Forms",
+  "import_from": "terra-form/lib/Textarea",
+  "properties": {
+    "value": {
+      "type": "String"
+    },
+    "name": {
+      "type": "String"
+    },
+    "required": {
+      "type": "Bool"
+    }
+  }
+}
