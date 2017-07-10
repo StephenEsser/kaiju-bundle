@@ -1,0 +1,23 @@
+{
+  "name": "MultiSelectList",
+  "library": "terra-list",
+  "display": "Multi Select List",
+  "description": "Arrange content within a single selectable list",
+  "group": "List",
+  "import_from": "terra-list/lib/MultiSelectList",
+  "properties": {
+    "isDivided": {
+      "type": "Bool",
+      "display": "Divided"
+    },
+    "maxSelectionCount": {
+      "type": "Number"
+    },
+    "children": {
+      "type": "Array",
+      "schema": {
+        "type": "Component"
+      }
+    }
+  }
+}
