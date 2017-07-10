@@ -1,0 +1,16 @@
+{
+  "name": "Cell",
+  "library": "terra-table",
+  "display": "Table Cell",
+  "description": "A table cell",
+  "group": "Table",
+  "import": "Table",
+  "properties": {
+    "content": {
+      "type": "Component"
+    },
+    "key": {
+      "type": "String"
+    }
+  }
+}

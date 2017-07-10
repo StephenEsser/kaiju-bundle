@@ -41,7 +41,8 @@
       "default": "Text"
     },
     "icon": {
-      "type": "Component"
+      "type": "Component",
+      "drop_zone": false
     }
   }
 }

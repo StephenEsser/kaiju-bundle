@@ -1,0 +1,19 @@
+{
+  "name": "Rows",
+  "library": "terra-table",
+  "display": "Table Rows",
+  "description": "Table rows",
+  "group": "Table",
+  "import": "Table",
+  "properties": {
+    "key": {
+      "type": "String"
+    },
+    "children": {
+      "type": "Array",
+      "schema": {
+        "type": "Component"
+      }
+    }
+  }
+}

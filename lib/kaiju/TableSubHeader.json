@@ -1,0 +1,20 @@
+{
+  "name": "Subheader",
+  "library": "terra-table",
+  "display": "Table Header",
+  "description": "A table header",
+  "group": "Table",
+  "import": "Table",
+  "properties": {
+    "colSpan": {
+      "type": "Number",
+      "display": "Column Span"
+    },
+    "key": {
+      "type": "String"
+    },
+    "content": {
+      "type": "Component"
+    }
+  }
+}
