@@ -13,7 +13,42 @@
       "type": "Array",
       "schema": {
         "type": "Component"
-      }
+      },
+      "default": [
+        {
+          "type": "terra-list::Item",
+          "props": {
+            "content": {
+              "type": "terra-clinical-item-display::ItemDisplay",
+              "props": {
+                "text": "List item 1"
+              }
+            }
+          }
+        },
+        {
+          "type": "terra-list::Item",
+          "props": {
+            "content": {
+              "type": "terra-clinical-item-display::ItemDisplay",
+              "props": {
+                "text": "List item 2"
+              }
+            }
+          }
+        },
+        {
+          "type": "terra-list::Item",
+          "props": {
+            "content": {
+              "type": "terra-clinical-item-display::ItemDisplay",
+              "props": {
+                "text": "List item 3"
+              }
+            }
+          }
+        }
+      ]
     }
   }
 }
