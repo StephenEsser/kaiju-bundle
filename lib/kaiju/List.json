@@ -1,0 +1,19 @@
+{
+  "name": "List",
+  "library": "terra-list",
+  "display": "List",
+  "description": "Arrange content within a list",
+  "group": "List",
+  "properties": {
+    "isDivided": {
+      "type": "Bool",
+      "display": "Divided"
+    },
+    "children": {
+      "type": "Array",
+      "schema": {
+        "type": "Component"
+      }
+    }
+  }
+}
