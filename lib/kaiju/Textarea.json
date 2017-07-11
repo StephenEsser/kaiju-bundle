@@ -1,7 +1,7 @@
 {
   "name": "Textarea",
   "library": "terra-form",
-  "display": "Input",
+  "display": "Textarea",
   "description": "Input element",
   "group": "Forms",
   "import_from": "terra-form/lib/Textarea",

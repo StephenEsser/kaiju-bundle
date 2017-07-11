@@ -1,7 +1,7 @@
 {
   "name": "Subheader",
   "library": "terra-table",
-  "display": "Table Header",
+  "display": "Table Subheader",
   "description": "A table header",
   "group": "Table",
   "import": "Table",
