@@ -3,7 +3,7 @@
   "library": "terra-badge",
   "display": "Badge",
   "description": "Displays content classification",
-  "group": "Utilities",
+  "group": "Content",
   "properties": {
     "text": {
       "type": "String",

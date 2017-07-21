@@ -3,7 +3,7 @@
   "library": "terra-search-field",
   "display": "Search Field",
   "description": "A styled search input with a debounce callback",
-  "group": "Utilities",
+  "group": "Headers",
   "properties": {
     "placeholder": {
       "type": "String",

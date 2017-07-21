@@ -3,7 +3,7 @@
   "library": "terra-toggle-button",
   "display": "Toggle Button",
   "description": "Transitions content",
-  "group": "Content",
+  "group": "Components",
   "properties": {
     "isInitiallyOpen": {
       "type": "Bool",

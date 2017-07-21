@@ -3,7 +3,7 @@
   "library": "terra-slide-panel",
   "display": "Slide Panel",
   "description": "Provides a progessive disclosure mechanism for cotent",
-  "group": "SlidePanel",
+  "group": "Components",
   "properties": {
     "mainContent": {
       "type": "Component"

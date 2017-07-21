@@ -3,7 +3,7 @@
   "library": "terra-toggle",
   "display": "Toggle",
   "description": "Transitions content",
-  "group": "Content",
+  "group": "Components",
   "properties": {
     "isOpen": {
       "type": "Bool",

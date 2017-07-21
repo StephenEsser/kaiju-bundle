@@ -3,7 +3,7 @@
   "library": "terra-image",
   "display": "Image",
   "description": "Provides a flexible image container",
-  "group": "Utilities",
+  "group": "Content",
   "properties": {
     "src": {
       "type": "String",
