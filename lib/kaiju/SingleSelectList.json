@@ -7,11 +7,13 @@
   "import_from": "terra-list/lib/SingleSelectList",
   "properties": {
     "hasChevrons": {
-      "type": "Bool"
+      "type": "Bool",
+      "default": true
     },
     "isDivided": {
       "type": "Bool",
-      "display": "Divided"
+      "display": "Divided",
+      "default": true
     },
     "children": {
       "type": "Array",
@@ -27,7 +29,9 @@
               "props": {
                 "text": "List item 1"
               }
-            }
+            },
+            "hasChevron": true,
+            "isSelectable": true
           }
         },
         {
@@ -38,7 +42,9 @@
               "props": {
                 "text": "List item 2"
               }
-            }
+            },
+            "hasChevron": true,
+            "isSelectable": true
           }
         },
         {
@@ -49,7 +55,9 @@
               "props": {
                 "text": "List item 3"
               }
-            }
+            },
+            "hasChevron": true,
+            "isSelectable": true
           }
         }
       ]
