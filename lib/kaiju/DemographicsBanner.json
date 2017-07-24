@@ -13,10 +13,6 @@
       "type": "String",
       "default": "25 Years"
     },
-    "dateOfBirthLabel": {
-      "type": "String",
-      "default": "DOB"
-    },
     "dateOfBirth": {
       "type": "String",
       "default": "May 9, 1993"
@@ -37,13 +33,7 @@
         }
       }
     },
-    "gestationalAgeLabel": {
-      "type": "String"
-    },
     "gestationalAge": {
-      "type": "String"
-    },
-    "postMenstrualAgeLabel": {
       "type": "String"
     },
     "postMenstrualAge": {

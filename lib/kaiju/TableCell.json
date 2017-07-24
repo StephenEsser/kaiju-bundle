@@ -8,9 +8,6 @@
   "properties": {
     "content": {
       "type": "Component"
-    },
-    "key": {
-      "type": "String"
     }
   }
 }

@@ -6,9 +6,6 @@
   "group": "Table",
   "import": "Table",
   "properties": {
-    "key": {
-      "type": "String"
-    },
     "children": {
       "type": "Array",
       "schema": {

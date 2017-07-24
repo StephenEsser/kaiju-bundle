@@ -10,9 +10,6 @@
       "type": "Number",
       "display": "Column Span"
     },
-    "key": {
-      "type": "String"
-    },
     "content": {
       "type": "Component"
     }

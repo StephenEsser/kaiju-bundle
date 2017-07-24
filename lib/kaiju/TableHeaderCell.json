@@ -60,9 +60,6 @@
         }
       ]
     },
-    "key": {
-      "type": "String"
-    },
     "content": {
       "type": "Component"
     }

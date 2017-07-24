@@ -14,9 +14,6 @@
       "type": "Bool",
       "display": "Selectable"
     },
-    "key": {
-      "type": "String"
-    },
     "children": {
       "type": "Array",
       "schema": {
