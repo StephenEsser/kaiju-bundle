@@ -113,9 +113,12 @@
       "display": "Hide text"
     },
     "children": {
-      "type": "Array",
-      "schema": {
-        "type": "Component"
+      "type": "Component",
+      "default": {
+        "type": "terra-text::Text",
+        "props": {
+          "children": "Heading text"
+        }
       }
     }
   }
