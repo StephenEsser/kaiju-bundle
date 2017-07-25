@@ -1,0 +1,16 @@
+{
+  "name": "Row",
+  "library": "terra-grid",
+  "display": "Grid Row",
+  "description": "Grid Row",
+  "group": "Grid",
+  "import": "Grid",
+  "properties": {
+    "children": {
+      "type": "Array",
+      "schema": {
+        "type": "Component"
+      }
+    }
+  }
+}
