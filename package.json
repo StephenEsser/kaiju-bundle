@@ -27,6 +27,7 @@
     "terra-button": "^1.0.0",
     "terra-button-group": "^1.0.0",
     "terra-content-container": "^1.0.0",
+    "terra-clinical-action-header": "^1.0.0",
     "terra-clinical-error-view": "^1.0.0",
     "terra-clinical-header": "^1.0.0",
     "terra-clinical-item-display": "^1.0.0",
