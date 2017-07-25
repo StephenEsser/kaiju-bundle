@@ -8,7 +8,7 @@
     "src": {
       "type": "String",
       "form_type": "DelayedInput",
-      "default": "http://lorempixel.com/50/50/animals/7/"
+      "default": "/Gamera_Maracas.gif"
     },
     "alt": {
       "type": "String",
