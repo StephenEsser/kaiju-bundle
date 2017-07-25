@@ -1,0 +1,19 @@
+{
+  "name": "ActionHeader",
+  "library": "terra-clinical-action-header",
+  "display": "Action Header",
+  "description": "A Header with actionable navigation buttons",
+  "group": "Headers",
+  "properties": {
+    "title": {
+      "type": "String",
+      "default": "Title"
+    },
+    "children": {
+      "type": "Array",
+      "schema": {
+        "type": "Component"
+      }
+    }
+  }
+}
