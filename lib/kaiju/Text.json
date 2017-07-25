@@ -92,7 +92,7 @@
     },
     "children": {
       "type": "String",
-      "default": "text"
+      "default": "Sample Text"
     }
   }
 }
