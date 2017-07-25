@@ -113,13 +113,8 @@
       "display": "Hide text"
     },
     "children": {
-      "type": "Component",
-      "default": {
-        "type": "terra-text::Text",
-        "props": {
-          "children": "Heading text"
-        }
-      }
+      "type": "String",
+      "default": "Heading"
     }
   }
 }
