@@ -91,10 +91,8 @@
       ]
     },
     "children": {
-      "type": "Array",
-      "schema": {
-        "type": "Component"
-      }
+      "type": "String",
+      "default": "text"
     }
   }
 }

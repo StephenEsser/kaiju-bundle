@@ -20,9 +20,9 @@
           "type": "terra-list::Item",
           "props": {
             "content": {
-              "type": "terra-clinical-item-display::ItemDisplay",
+              "type": "terra-text::Text",
               "props": {
-                "text": "List item 1"
+                "children": "List item 1"
               }
             },
             "hasChevron": true,
@@ -33,9 +33,9 @@
           "type": "terra-list::Item",
           "props": {
             "content": {
-              "type": "terra-clinical-item-display::ItemDisplay",
+              "type": "terra-text::Text",
               "props": {
-                "text": "List item 2"
+                "children": "List item 2"
               }
             },
             "hasChevron": true,
@@ -46,9 +46,9 @@
           "type": "terra-list::Item",
           "props": {
             "content": {
-              "type": "terra-clinical-item-display::ItemDisplay",
+              "type": "terra-text::Text",
               "props": {
-                "text": "List item 3"
+                "children": "List item 3"
               }
             },
             "hasChevron": true,

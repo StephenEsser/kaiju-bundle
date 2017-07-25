@@ -29,9 +29,9 @@
                 "type": "terra-table::HeaderCell",
                 "props": {
                   "content": {
-                    "type": "terra-clinical-item-display::ItemDisplay",
+                    "type": "terra-text::Text",
                     "props": {
-                      "text": "Name"
+                      "children": "Name"
                     }
                   }
                 }
@@ -40,9 +40,9 @@
                 "type": "terra-table::HeaderCell",
                 "props": {
                   "content": {
-                    "type": "terra-clinical-item-display::ItemDisplay",
+                    "type": "terra-text::Text",
                     "props": {
-                      "text": "Address"
+                      "children": "Address"
                     }
                   }
                 }
@@ -51,9 +51,9 @@
                 "type": "terra-table::HeaderCell",
                 "props": {
                   "content": {
-                    "type": "terra-clinical-item-display::ItemDisplay",
+                    "type": "terra-text::Text",
                     "props": {
-                      "text": "Phone Number"
+                      "children": "Phone Number"
                     }
                   }
                 }
@@ -73,9 +73,9 @@
                       "type": "terra-table::Cell",
                       "props": {
                         "content": {
-                          "type": "terra-clinical-item-display::ItemDisplay",
+                          "type": "terra-text::Text",
                           "props": {
-                            "text": "John Smith"
+                            "children": "John Smith"
                           }
                         }
                       }
@@ -84,9 +84,9 @@
                       "type": "terra-table::Cell",
                       "props": {
                         "content": {
-                          "type": "terra-clinical-item-display::ItemDisplay",
+                          "type": "terra-text::Text",
                           "props": {
-                            "text": "1110 Park Drive"
+                            "children": "1110 Park Drive"
                           }
                         }
                       }
@@ -95,9 +95,9 @@
                       "type": "terra-table::Cell",
                       "props": {
                         "content": {
-                          "type": "terra-clinical-item-display::ItemDisplay",
+                          "type": "terra-text::Text",
                           "props": {
-                            "text": "555-555-5555"
+                            "children": "555-555-5555"
                           }
                         }
                       }
@@ -113,9 +113,9 @@
                       "type": "terra-table::Cell",
                       "props": {
                         "content": {
-                          "type": "terra-clinical-item-display::ItemDisplay",
+                          "type": "terra-text::Text",
                           "props": {
-                            "text": "Matt Anderson"
+                            "children": "Matt Anderson"
                           }
                         }
                       }
@@ -124,9 +124,9 @@
                       "type": "terra-table::Cell",
                       "props": {
                         "content": {
-                          "type": "terra-clinical-item-display::ItemDisplay",
+                          "type": "terra-text::Text",
                           "props": {
-                            "text": "6100 Autumn Avenue"
+                            "children": "6100 Autumn Avenue"
                           }
                         }
                       }
@@ -135,9 +135,9 @@
                       "type": "terra-table::Cell",
                       "props": {
                         "content": {
-                          "type": "terra-clinical-item-display::ItemDisplay",
+                          "type": "terra-text::Text",
                           "props": {
-                            "text": "555-555-5555"
+                            "children": "555-555-5555"
                           }
                         }
                       }
@@ -153,9 +153,9 @@
                       "type": "terra-table::Cell",
                       "props": {
                         "content": {
-                          "type": "terra-clinical-item-display::ItemDisplay",
+                          "type": "terra-text::Text",
                           "props": {
-                            "text": "David Johnson"
+                            "children": "David Johnson"
                           }
                         }
                       }
@@ -164,9 +164,9 @@
                       "type": "terra-table::Cell",
                       "props": {
                         "content": {
-                          "type": "terra-clinical-item-display::ItemDisplay",
+                          "type": "terra-text::Text",
                           "props": {
-                            "text": "1908 Row Parkway"
+                            "children": "1908 Row Parkway"
                           }
                         }
                       }
@@ -175,9 +175,9 @@
                       "type": "terra-table::Cell",
                       "props": {
                         "content": {
-                          "type": "terra-clinical-item-display::ItemDisplay",
+                          "type": "terra-text::Text",
                           "props": {
-                            "text": "555-555-5555"
+                            "children": "555-555-5555"
                           }
                         }
                       }
