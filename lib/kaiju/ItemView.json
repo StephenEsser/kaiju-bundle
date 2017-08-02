@@ -60,13 +60,16 @@
       ]
     },
     "startAccessory": {
-      "type": "Component"
+      "type": "Component",
+      "drop_zone": false
     },
     "endAccessory": {
-      "type": "Component"
+      "type": "Component",
+      "drop_zone": false
     },
     "comment": {
-      "type": "Component"
+      "type": "Component",
+      "drop_zone": false
     },
     "displays": {
       "type": "Array",
