@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/StephenEsser/kaiju-bundle#readme",
   "dependencies": {
+    "terra-alert": "^1.0.0",
     "terra-arrange": "^1.0.0",
     "terra-badge": "^1.0.0",
     "terra-base": "^1.0.0",
