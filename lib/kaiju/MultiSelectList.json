@@ -24,9 +24,9 @@
           "type": "terra-list::Item",
           "props": {
             "content": {
-              "type": "terra-text::Text",
+              "type": "kaiju::Text",
               "props": {
-                "children": "List item 1"
+                "text": "List item 1"
               }
             },
             "hasChevron": true,
@@ -37,9 +37,9 @@
           "type": "terra-list::Item",
           "props": {
             "content": {
-              "type": "terra-text::Text",
+              "type": "kaiju::Text",
               "props": {
-                "children": "List item 2"
+                "text": "List item 2"
               }
             },
             "hasChevron": true,
@@ -50,9 +50,9 @@
           "type": "terra-list::Item",
           "props": {
             "content": {
-              "type": "terra-text::Text",
+              "type": "kaiju::Text",
               "props": {
-                "children": "List item 3"
+                "text": "List item 3"
               }
             },
             "hasChevron": true,
