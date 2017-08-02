@@ -2,7 +2,7 @@
   "name": "Column",
   "library": "terra-grid",
   "display": "Grid Column",
-  "description": "Grid Column",
+  "description": "A grid column",
   "group": "Grid",
   "import": "Grid",
   "properties": {

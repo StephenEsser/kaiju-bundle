@@ -2,7 +2,7 @@
   "name": "ContentContainer",
   "library": "terra-content-container",
   "display": "Content Container",
-  "description": "The Terra ContentContainer is a structural component for the purpose of arranging content with a header.",
+  "description": "A structural component for arranging content with a header",
   "group": "Components",
   "properties": {
     "header": {

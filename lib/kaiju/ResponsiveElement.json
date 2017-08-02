@@ -26,19 +26,24 @@
       "type": "Component"
     },
     "tiny": {
-      "type": "Component"
+      "type": "Component",
+      "drop_zone": false
     },
     "small": {
-      "type": "Component"
+      "type": "Component",
+      "drop_zone": false
     },
     "medium": {
-      "type": "Component"
+      "type": "Component",
+      "drop_zone": false
     },
     "large": {
-      "type": "Component"
+      "type": "Component",
+      "drop_zone": false
     },
     "huge": {
-      "type": "Component"
+      "type": "Component",
+      "drop_zone": false
     }
   }
 }

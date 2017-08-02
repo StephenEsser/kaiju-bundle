@@ -2,7 +2,7 @@
   "name": "Field",
   "library": "terra-form",
   "display": "Field",
-  "description": "Form layout container",
+  "description": "A form container for arranging error, help, label, and value text",
   "group": "Forms",
   "import_from": "terra-form/lib/Field",
   "properties": {

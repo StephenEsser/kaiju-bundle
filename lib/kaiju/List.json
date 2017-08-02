@@ -2,7 +2,7 @@
   "name": "List",
   "library": "terra-list",
   "display": "List",
-  "description": "Arrange content within a list",
+  "description": "A list",
   "group": "List",
   "properties": {
     "isDivided": {

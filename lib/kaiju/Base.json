@@ -2,7 +2,7 @@
   "name": "Base",
   "library": "terra-base",
   "display": "Base",
-  "description": "Sets Global Styles",
+  "description": "Provides global style and translation support",
   "group": "Utilities",
   "properties": {
     "children": {

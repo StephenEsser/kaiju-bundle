@@ -8,6 +8,14 @@
     "title": {
       "type": "String",
       "default": "Title"
+    },
+    "startContent": {
+      "type": "Component",
+      "drop_zone": false
+    },
+    "endContent": {
+      "type": "Component",
+      "drop_zone": false
     }
   }
 }

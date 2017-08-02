@@ -2,7 +2,7 @@
   "name": "TextField",
   "library": "terra-form",
   "display": "Text Field",
-  "description": "Text field element",
+  "description": "Arranges a standard TexField with an optional label, error, and value",
   "group": "Forms",
   "import_from": "terra-form/lib/TextField",
   "properties": {

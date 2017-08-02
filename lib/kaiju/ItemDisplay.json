@@ -2,7 +2,7 @@
   "name": "ItemDisplay",
   "library": "terra-clinical-item-display",
   "display": "Item Display",
-  "description": "A text display",
+  "description": "An ItemView text display with an optional icon",
   "group": "Content",
   "properties": {
     "isTruncated": {

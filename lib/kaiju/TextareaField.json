@@ -2,7 +2,7 @@
   "name": "TextareaField",
   "library": "terra-form",
   "display": "Textarea Field",
-  "description": "Textarea field element",
+  "description": "Arranges a standard Textarea with an optional label, error, and value",
   "group": "Forms",
   "import_from": "terra-form/lib/TextareaField",
   "properties": {

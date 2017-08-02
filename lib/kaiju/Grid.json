@@ -2,7 +2,7 @@
   "name": "Grid",
   "library": "terra-grid",
   "display": "Grid",
-  "description": "Provides a flexbox based grid system",
+  "description": "Provides a flexbox based grid layout",
   "group": "Grid",
   "properties": {
     "children": {

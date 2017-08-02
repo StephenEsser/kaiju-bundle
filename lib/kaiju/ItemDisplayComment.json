@@ -2,7 +2,7 @@
   "name": "Comment",
   "library": "terra-clinical-item-display",
   "display": "Item Display Comment",
-  "description": "Comment text",
+  "description": "A styled ItemView comment display and icon",
   "group": "Content",
   "import": "ItemDisplay",
   "properties": {

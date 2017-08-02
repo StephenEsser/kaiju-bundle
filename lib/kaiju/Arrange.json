@@ -2,7 +2,7 @@
   "name": "Arrange",
   "library": "terra-arrange",
   "display": "Arrange",
-  "description": "Flexible content alignment",
+  "description": "A flexible container for aligning start, fill, and end content",
   "group": "Utilities",
   "properties": {
     "fitStart": {

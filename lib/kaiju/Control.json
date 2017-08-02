@@ -2,7 +2,7 @@
   "name": "Control",
   "library": "terra-form",
   "display": "Control",
-  "description": "Control element",
+  "description": "A checkbox or radio button input",
   "group": "Forms",
   "import_from": "terra-form/lib/Control",
   "properties": {

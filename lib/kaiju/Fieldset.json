@@ -2,7 +2,7 @@
   "name": "Fieldset",
   "library": "terra-form",
   "display": "Fieldset",
-  "description": "Form layout container",
+  "description": "A form container for arranging error, help, label, legend, and value text",
   "group": "Forms",
   "import_from": "terra-form/lib/Fieldset",
   "properties": {

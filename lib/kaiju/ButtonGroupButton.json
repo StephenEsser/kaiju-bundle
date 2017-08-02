@@ -2,7 +2,7 @@
   "name": "Button",
   "library": "terra-button-group",
   "display": "Button Group Button",
-  "description": "A Button specifically for the Button Group",
+  "description": "A Button Group Button",
   "group": "Buttons",
   "import": "ButtonGroup",
   "properties": {

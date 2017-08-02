@@ -2,7 +2,7 @@
   "name": "ItemView",
   "library": "terra-clinical-item-view",
   "display": "Item View",
-  "description": "Displays a label and associated value",
+  "description": "Organizes displays into rows and columns with optional start and end accessory elements",
   "group": "Content",
   "properties": {
     "isTruncated": {

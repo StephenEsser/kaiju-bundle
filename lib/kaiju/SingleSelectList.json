@@ -2,7 +2,7 @@
   "name": "SingleSelectList",
   "library": "terra-list",
   "display": "Single Select List",
-  "description": "Arrange content within a single selectable list",
+  "description": "A list for managing a single selection",
   "group": "List",
   "import_from": "terra-list/lib/SingleSelectList",
   "properties": {

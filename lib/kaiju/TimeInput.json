@@ -2,7 +2,7 @@
   "name": "TimeInput",
   "library": "terra-time-input",
   "display": "Time Input",
-  "description": "A controlled time input",
+  "description": "A controlled input for time entry",
   "group": "Forms",
   "properties": {
     "name": {
