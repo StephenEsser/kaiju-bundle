@@ -1,7 +1,7 @@
 {
   "name": "Text",
   "library": "terra-text",
-  "display": "Text",
+  "display": "Text Component",
   "description": "Component for displaying customizable text in UI",
   "group": "Content",
   "properties": {
