@@ -53,7 +53,8 @@
     "children": {
       "type": "Array",
       "schema":{
-        "type": "Component"
+        "type": "Component",
+        "drop_zone": false
       }
     },
     "action": {
