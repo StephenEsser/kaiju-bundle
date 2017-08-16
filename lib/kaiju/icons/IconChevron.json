@@ -4,7 +4,7 @@
   "display": "Chevron Icon",
   "description": "Chevron Icon",
   "import_from": "terra-icon/lib/icon/IconChevron",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

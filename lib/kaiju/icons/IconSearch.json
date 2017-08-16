@@ -4,7 +4,7 @@
   "display": "Search Icon",
   "description": "Search Icon",
   "import_from": "terra-icon/lib/icon/IconSearch",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

@@ -4,7 +4,7 @@
   "display": "Calculator Icon",
   "description": "Calculator Icon",
   "import_from": "terra-icon/lib/icon/IconCalculator",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

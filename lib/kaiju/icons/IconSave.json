@@ -4,7 +4,7 @@
   "display": "Save Icon",
   "description": "Save Icon",
   "import_from": "terra-icon/lib/icon/IconSave",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

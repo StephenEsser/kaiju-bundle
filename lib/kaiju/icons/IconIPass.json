@@ -4,7 +4,7 @@
   "display": "I Pass Icon",
   "description": "IPass Icon",
   "import_from": "terra-icon/lib/icon/IconIPass",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

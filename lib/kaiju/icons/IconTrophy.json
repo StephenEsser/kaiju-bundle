@@ -4,7 +4,7 @@
   "display": "Trophy Icon",
   "description": "Trophy Icon",
   "import_from": "terra-icon/lib/icon/IconTrophy",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

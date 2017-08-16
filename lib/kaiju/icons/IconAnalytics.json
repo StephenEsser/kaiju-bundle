@@ -4,7 +4,7 @@
   "display": "Analytics Icon",
   "description": "Analytics Icon",
   "import_from": "terra-icon/lib/icon/IconAnalytics",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

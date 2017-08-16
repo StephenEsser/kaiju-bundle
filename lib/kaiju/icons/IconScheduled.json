@@ -4,7 +4,7 @@
   "display": "Scheduled Icon",
   "description": "Scheduled Icon",
   "import_from": "terra-icon/lib/icon/IconScheduled",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

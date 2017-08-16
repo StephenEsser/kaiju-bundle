@@ -3,7 +3,7 @@
   "library": "terra-table",
   "display": "Table Row",
   "description": "A table row",
-  "group": "Table",
+  "group": "Organisms::Table",
   "import": "Table",
   "properties": {
     "isSelected": {

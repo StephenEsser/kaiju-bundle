@@ -3,7 +3,7 @@
   "library": "terra-image",
   "display": "Image",
   "description": "Provides a flexible image container",
-  "group": "Content",
+  "group": "Atoms::Other",
   "properties": {
     "src": {
       "type": "String",

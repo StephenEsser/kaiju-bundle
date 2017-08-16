@@ -4,7 +4,7 @@
   "display": "Sort Descending Icon",
   "description": "SortDescending Icon",
   "import_from": "terra-icon/lib/icon/IconSortDescending",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

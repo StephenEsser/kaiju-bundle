@@ -3,7 +3,7 @@
   "library": "terra-clinical-action-header",
   "display": "Action Header",
   "description": "A Header with actionable navigation buttons",
-  "group": "Headers",
+  "group": "Organisms::Other",
   "properties": {
     "title": {
       "type": "String",

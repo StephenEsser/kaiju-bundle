@@ -3,7 +3,7 @@
   "library": "terra-clinical-item-display",
   "display": "Item Display Comment",
   "description": "A styled ItemView comment display and icon",
-  "group": "Content",
+  "group": "Molecules::Item View",
   "import": "ItemDisplay",
   "properties": {
     "isTruncated": {

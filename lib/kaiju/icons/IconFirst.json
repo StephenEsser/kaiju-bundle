@@ -4,7 +4,7 @@
   "display": "First Icon",
   "description": "First Icon",
   "import_from": "terra-icon/lib/icon/IconFirst",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

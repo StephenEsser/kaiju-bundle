@@ -4,7 +4,7 @@
   "display": "Max Icon",
   "description": "Max Icon",
   "import_from": "terra-icon/lib/icon/IconMax",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

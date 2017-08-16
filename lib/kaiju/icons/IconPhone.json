@@ -4,7 +4,7 @@
   "display": "Phone Icon",
   "description": "Phone Icon",
   "import_from": "terra-icon/lib/icon/IconPhone",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

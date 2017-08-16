@@ -4,7 +4,7 @@
   "display": "Low Icon",
   "description": "Low Icon",
   "import_from": "terra-icon/lib/icon/IconLow",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

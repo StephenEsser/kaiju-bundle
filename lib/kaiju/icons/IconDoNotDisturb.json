@@ -4,7 +4,7 @@
   "display": "Do Not Disturb Icon",
   "description": "DoNotDisturb Icon",
   "import_from": "terra-icon/lib/icon/IconDoNotDisturb",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

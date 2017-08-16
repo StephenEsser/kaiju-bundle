@@ -3,7 +3,7 @@
   "library": "terra-form",
   "display": "Input",
   "description": "Input form element",
-  "group": "Forms",
+  "group": "Atoms::Forms",
   "import_from": "terra-form/lib/Input",
   "properties": {
     "value": {

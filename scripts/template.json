@@ -4,7 +4,7 @@
   "display": "",
   "description": "",
   "import_from": "",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

@@ -3,7 +3,7 @@
   "library": "terra-responsive-element",
   "display": "Responsive Element",
   "description": "Conditionally renders components based on viewport size",
-  "group": "Utilities",
+  "group": "Organisms::Other",
   "properties": {
     "responsiveTo": {
       "type": "String",

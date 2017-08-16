@@ -3,7 +3,7 @@
   "library": "terra-form",
   "display": "Textarea Field",
   "description": "Arranges a standard Textarea with an optional label, error, and value",
-  "group": "Forms",
+  "group": "Atoms::Forms",
   "import_from": "terra-form/lib/TextareaField",
   "properties": {
     "value": {

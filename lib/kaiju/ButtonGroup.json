@@ -3,7 +3,7 @@
   "library": "terra-button-group",
   "display": "Button Group",
   "description": "Groups buttons and maintains a toggle selection state",
-  "group": "Buttons",
+  "group": "Molecules::Button Group",
   "properties": {
     "children": {
       "type": "Array",

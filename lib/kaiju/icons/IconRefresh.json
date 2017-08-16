@@ -4,7 +4,7 @@
   "display": "Refresh Icon",
   "description": "Refresh Icon",
   "import_from": "terra-icon/lib/icon/IconRefresh",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

@@ -3,7 +3,7 @@
   "library": "terra-clinical-label-value-view",
   "display": "Label Value View",
   "description": "Displays a label and associated value",
-  "group": "Content",
+  "group": "Molecules::Other",
   "properties": {
     "label": {
       "type": "String",

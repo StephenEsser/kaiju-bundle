@@ -4,7 +4,7 @@
   "display": "High Icon",
   "description": "High Icon",
   "import_from": "terra-icon/lib/icon/IconHigh",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

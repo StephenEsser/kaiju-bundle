@@ -4,7 +4,7 @@
   "display": "Paper Folded Icon",
   "description": "PaperFolded Icon",
   "import_from": "terra-icon/lib/icon/IconPaperFolded",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

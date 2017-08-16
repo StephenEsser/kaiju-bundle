@@ -4,7 +4,7 @@
   "display": "Ellipses Icon",
   "description": "Ellipses Icon",
   "import_from": "terra-icon/lib/icon/IconEllipses",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

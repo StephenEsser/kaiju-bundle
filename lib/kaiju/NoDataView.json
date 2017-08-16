@@ -3,7 +3,7 @@
   "library": "terra-clinical-no-data-view",
   "display": "No Data View",
   "description": "Displays a message indicating no data",
-  "group": "Indicators",
+  "group": "Templates",
   "properties": {
     "heading": {
       "type": "String",

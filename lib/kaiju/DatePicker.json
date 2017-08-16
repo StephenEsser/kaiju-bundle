@@ -3,7 +3,7 @@
   "library": "terra-date-picker",
   "display": "Date Picker",
   "description": "A controlled input component for selecting dates",
-  "group": "Forms",
+  "group": "Atoms::Forms",
   "properties": {
     "excludeDates": {
       "type": "Array",

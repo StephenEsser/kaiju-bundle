@@ -4,7 +4,7 @@
   "display": "Featured Outline Icon",
   "description": "FeaturedOutline Icon",
   "import_from": "terra-icon/lib/icon/IconFeaturedOutline",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

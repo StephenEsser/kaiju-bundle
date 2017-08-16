@@ -4,7 +4,7 @@
   "display": "Tag Icon",
   "description": "Tag Icon",
   "import_from": "terra-icon/lib/icon/IconTag",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

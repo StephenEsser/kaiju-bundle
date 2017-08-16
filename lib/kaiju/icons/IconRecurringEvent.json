@@ -4,7 +4,7 @@
   "display": "Recurring Event Icon",
   "description": "RecurringEvent Icon",
   "import_from": "terra-icon/lib/icon/IconRecurringEvent",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

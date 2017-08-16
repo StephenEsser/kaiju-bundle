@@ -3,7 +3,7 @@
   "library": "terra-table",
   "display": "Table",
   "description": "Structural table",
-  "group": "Table",
+  "group": "Organisms::Table",
   "properties": {
     "isStriped": {
       "type": "Bool",

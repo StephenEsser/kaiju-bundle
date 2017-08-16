@@ -4,7 +4,7 @@
   "display": "Reload Icon",
   "description": "Reload Icon",
   "import_from": "terra-icon/lib/icon/IconReload",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

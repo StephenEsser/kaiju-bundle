@@ -3,7 +3,7 @@
   "library": "terra-clinical-header",
   "display": "Header",
   "description": "Arranges a title and content within a Header",
-  "group": "Headers",
+  "group": "Molecules::Other",
   "properties": {
     "title": {
       "type": "String",

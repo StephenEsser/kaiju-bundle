@@ -4,7 +4,7 @@
   "display": "Provider Icon",
   "description": "Provider Icon",
   "import_from": "terra-icon/lib/icon/IconProvider",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

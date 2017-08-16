@@ -4,7 +4,7 @@
   "display": "Complete Icon",
   "description": "Complete Icon",
   "import_from": "terra-icon/lib/icon/IconComplete",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

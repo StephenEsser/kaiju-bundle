@@ -4,7 +4,7 @@
   "display": "Help Inverse Icon",
   "description": "HelpInverse Icon",
   "import_from": "terra-icon/lib/icon/IconHelpInverse",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

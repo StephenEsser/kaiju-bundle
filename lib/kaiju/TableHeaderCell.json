@@ -3,7 +3,7 @@
   "library": "terra-table",
   "display": "Table Header Cell",
   "description": "A table header cell",
-  "group": "Table",
+  "group": "Organisms::Table",
   "import": "Table",
   "properties": {
     "minWidth": {

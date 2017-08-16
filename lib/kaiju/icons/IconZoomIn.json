@@ -4,7 +4,7 @@
   "display": "Zoom In Icon",
   "description": "ZoomIn Icon",
   "import_from": "terra-icon/lib/icon/IconZoomIn",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

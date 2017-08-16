@@ -3,7 +3,7 @@
   "library": "terra-list",
   "display": "Multi Select List",
   "description": "A list for managing multiple selections",
-  "group": "List",
+  "group": "Organisms::List",
   "import_from": "terra-list/lib/MultiSelectList",
   "properties": {
     "isDivided": {

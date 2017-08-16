@@ -4,7 +4,7 @@
   "display": "Pharmacy Reject Icon",
   "description": "PharmacyReject Icon",
   "import_from": "terra-icon/lib/icon/IconPharmacyReject",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

@@ -4,7 +4,7 @@
   "display": "Reply All Icon",
   "description": "ReplyAll Icon",
   "import_from": "terra-icon/lib/icon/IconReplyAll",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

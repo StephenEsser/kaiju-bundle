@@ -4,7 +4,7 @@
   "display": "Printer Icon",
   "description": "Printer Icon",
   "import_from": "terra-icon/lib/icon/IconPrinter",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

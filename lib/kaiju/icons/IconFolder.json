@@ -4,7 +4,7 @@
   "display": "Folder Icon",
   "description": "Folder Icon",
   "import_from": "terra-icon/lib/icon/IconFolder",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

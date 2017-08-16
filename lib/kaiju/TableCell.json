@@ -3,7 +3,7 @@
   "library": "terra-table",
   "display": "Table Cell",
   "description": "A table cell",
-  "group": "Table",
+  "group": "Organisms::Table",
   "import": "Table",
   "properties": {
     "content": {

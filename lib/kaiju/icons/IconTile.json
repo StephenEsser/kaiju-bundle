@@ -4,7 +4,7 @@
   "display": "Tile Icon",
   "description": "Tile Icon",
   "import_from": "terra-icon/lib/icon/IconTile",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

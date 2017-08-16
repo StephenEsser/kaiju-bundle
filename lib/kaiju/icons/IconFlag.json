@@ -4,7 +4,7 @@
   "display": "Flag Icon",
   "description": "Flag Icon",
   "import_from": "terra-icon/lib/icon/IconFlag",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

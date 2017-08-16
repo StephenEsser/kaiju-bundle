@@ -4,7 +4,7 @@
   "display": "Cancel Icon",
   "description": "Cancel Icon",
   "import_from": "terra-icon/lib/icon/IconCancel",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

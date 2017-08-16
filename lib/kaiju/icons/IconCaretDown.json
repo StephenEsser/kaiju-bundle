@@ -4,7 +4,7 @@
   "display": "Caret Down Icon",
   "description": "CaretDown Icon",
   "import_from": "terra-icon/lib/icon/IconCaretDown",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

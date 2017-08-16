@@ -4,7 +4,7 @@
   "display": "Abnormal Icon",
   "description": "Abnormal Icon",
   "import_from": "terra-icon/lib/icon/IconAbnormal",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

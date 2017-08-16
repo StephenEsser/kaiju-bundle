@@ -4,7 +4,7 @@
   "display": "Italic I Icon",
   "description": "ItalicI Icon",
   "import_from": "terra-icon/lib/icon/IconItalicI",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

@@ -4,7 +4,7 @@
   "display": "Left Pane Icon",
   "description": "LeftPane Icon",
   "import_from": "terra-icon/lib/icon/IconLeftPane",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

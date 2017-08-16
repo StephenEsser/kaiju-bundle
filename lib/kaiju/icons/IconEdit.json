@@ -4,7 +4,7 @@
   "display": "Edit Icon",
   "description": "Edit Icon",
   "import_from": "terra-icon/lib/icon/IconEdit",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

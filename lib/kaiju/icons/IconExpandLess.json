@@ -4,7 +4,7 @@
   "display": "Expand Less Icon",
   "description": "ExpandLess Icon",
   "import_from": "terra-icon/lib/icon/IconExpandLess",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

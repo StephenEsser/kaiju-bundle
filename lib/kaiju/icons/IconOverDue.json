@@ -4,7 +4,7 @@
   "display": "Over Due Icon",
   "description": "OverDue Icon",
   "import_from": "terra-icon/lib/icon/IconOverDue",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

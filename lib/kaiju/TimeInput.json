@@ -3,7 +3,7 @@
   "library": "terra-time-input",
   "display": "Time Input",
   "description": "A controlled input for time entry",
-  "group": "Forms",
+  "group": "Atoms::Forms",
   "properties": {
     "name": {
       "type": "String",

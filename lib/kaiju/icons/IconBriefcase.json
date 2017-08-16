@@ -4,7 +4,7 @@
   "display": "Briefcase Icon",
   "description": "Briefcase Icon",
   "import_from": "terra-icon/lib/icon/IconBriefcase",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

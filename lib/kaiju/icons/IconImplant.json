@@ -4,7 +4,7 @@
   "display": "Implant Icon",
   "description": "Implant Icon",
   "import_from": "terra-icon/lib/icon/IconImplant",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

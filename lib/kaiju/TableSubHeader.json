@@ -3,7 +3,7 @@
   "library": "terra-table",
   "display": "Table Subheader",
   "description": "A table subheader",
-  "group": "Table",
+  "group": "Organisms::Table",
   "import": "Table",
   "properties": {
     "colSpan": {

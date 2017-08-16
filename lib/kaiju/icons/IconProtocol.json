@@ -4,7 +4,7 @@
   "display": "Protocol Icon",
   "description": "Protocol Icon",
   "import_from": "terra-icon/lib/icon/IconProtocol",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

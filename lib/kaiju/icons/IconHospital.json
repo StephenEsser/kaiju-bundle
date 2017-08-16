@@ -4,7 +4,7 @@
   "display": "Hospital Icon",
   "description": "Hospital Icon",
   "import_from": "terra-icon/lib/icon/IconHospital",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

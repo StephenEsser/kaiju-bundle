@@ -4,7 +4,7 @@
   "display": "Bookmark Icon",
   "description": "Bookmark Icon",
   "import_from": "terra-icon/lib/icon/IconBookmark",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

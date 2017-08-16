@@ -4,7 +4,7 @@
   "display": "Diamond Icon",
   "description": "Diamond Icon",
   "import_from": "terra-icon/lib/icon/IconDiamond",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

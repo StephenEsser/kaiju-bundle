@@ -4,7 +4,7 @@
   "display": "Success Icon",
   "description": "Success Icon",
   "import_from": "terra-icon/lib/icon/IconSuccess",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

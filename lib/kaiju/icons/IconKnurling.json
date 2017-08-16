@@ -4,7 +4,7 @@
   "display": "Knurling Icon",
   "description": "Knurling Icon",
   "import_from": "terra-icon/lib/icon/IconKnurling",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

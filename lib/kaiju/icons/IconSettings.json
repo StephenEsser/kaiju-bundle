@@ -4,7 +4,7 @@
   "display": "Settings Icon",
   "description": "Settings Icon",
   "import_from": "terra-icon/lib/icon/IconSettings",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

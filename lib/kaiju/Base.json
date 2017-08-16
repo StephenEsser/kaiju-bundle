@@ -3,7 +3,8 @@
   "library": "terra-base",
   "display": "Base",
   "description": "Provides global style and translation support",
-  "group": "Utilities",
+  "group": "Organisms::Other",
+  "hidden": true,
   "properties": {
     "children": {
       "type": "Array",

@@ -4,7 +4,7 @@
   "display": "Forward Icon",
   "description": "Forward Icon",
   "import_from": "terra-icon/lib/icon/IconForward",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

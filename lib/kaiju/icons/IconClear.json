@@ -4,7 +4,7 @@
   "display": "Clear Icon",
   "description": "Clear Icon",
   "import_from": "terra-icon/lib/icon/IconClear",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

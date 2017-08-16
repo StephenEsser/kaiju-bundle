@@ -4,7 +4,7 @@
   "display": "Paper Pencil Icon",
   "description": "PaperPencil Icon",
   "import_from": "terra-icon/lib/icon/IconPaperPencil",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

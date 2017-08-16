@@ -3,7 +3,7 @@
   "library": "terra-clinical-item-display",
   "display": "Item Display",
   "description": "An ItemView text display with an optional icon",
-  "group": "Content",
+  "group": "Molecules::Item View",
   "properties": {
     "isTruncated": {
       "type": "Bool",

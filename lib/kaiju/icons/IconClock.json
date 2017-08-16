@@ -4,7 +4,7 @@
   "display": "Clock Icon",
   "description": "Clock Icon",
   "import_from": "terra-icon/lib/icon/IconClock",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

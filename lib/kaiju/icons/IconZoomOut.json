@@ -4,7 +4,7 @@
   "display": "Zoom Out Icon",
   "description": "ZoomOut Icon",
   "import_from": "terra-icon/lib/icon/IconZoomOut",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

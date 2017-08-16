@@ -4,7 +4,7 @@
   "display": "Checklist Icon",
   "description": "Checklist Icon",
   "import_from": "terra-icon/lib/icon/IconChecklist",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

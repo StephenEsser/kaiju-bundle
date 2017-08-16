@@ -4,7 +4,7 @@
   "display": "Users Icon",
   "description": "Users Icon",
   "import_from": "terra-icon/lib/icon/IconUsers",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

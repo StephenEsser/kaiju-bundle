@@ -3,7 +3,7 @@
   "library": "terra-form",
   "display": "Control",
   "description": "A checkbox or radio button input",
-  "group": "Forms",
+  "group": "Atoms::Forms",
   "import_from": "terra-form/lib/Control",
   "properties": {
     "type": {

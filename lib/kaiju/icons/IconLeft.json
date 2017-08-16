@@ -4,7 +4,7 @@
   "display": "Left Icon",
   "description": "Left Icon",
   "import_from": "terra-icon/lib/icon/IconLeft",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

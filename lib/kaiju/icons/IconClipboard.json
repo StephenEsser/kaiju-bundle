@@ -4,7 +4,7 @@
   "display": "Clipboard Icon",
   "description": "Clipboard Icon",
   "import_from": "terra-icon/lib/icon/IconClipboard",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

@@ -4,7 +4,7 @@
   "display": "Pill Icon",
   "description": "Pill Icon",
   "import_from": "terra-icon/lib/icon/IconPill",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

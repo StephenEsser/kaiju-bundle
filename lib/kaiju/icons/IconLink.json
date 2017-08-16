@@ -4,7 +4,7 @@
   "display": "Link Icon",
   "description": "Link Icon",
   "import_from": "terra-icon/lib/icon/IconLink",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

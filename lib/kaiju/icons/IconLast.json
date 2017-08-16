@@ -4,7 +4,7 @@
   "display": "Last Icon",
   "description": "Last Icon",
   "import_from": "terra-icon/lib/icon/IconLast",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

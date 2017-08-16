@@ -3,7 +3,7 @@
   "library": "terra-list",
   "display": "List",
   "description": "A list",
-  "group": "List",
+  "group": "Organisms::List",
   "properties": {
     "isDivided": {
       "type": "Bool",

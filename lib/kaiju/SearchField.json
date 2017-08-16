@@ -3,7 +3,7 @@
   "library": "terra-search-field",
   "display": "Search Field",
   "description": "A styled search input with a debounce callback",
-  "group": "Headers",
+  "group": "Molecules::Other",
   "properties": {
     "placeholder": {
       "type": "String",

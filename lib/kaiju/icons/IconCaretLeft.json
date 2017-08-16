@@ -4,7 +4,7 @@
   "display": "Caret Left Icon",
   "description": "CaretLeft Icon",
   "import_from": "terra-icon/lib/icon/IconCaretLeft",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

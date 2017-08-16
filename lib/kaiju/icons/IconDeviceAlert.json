@@ -4,7 +4,7 @@
   "display": "Device Alert Icon",
   "description": "DeviceAlert Icon",
   "import_from": "terra-icon/lib/icon/IconDeviceAlert",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

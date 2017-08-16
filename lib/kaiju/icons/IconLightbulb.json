@@ -4,7 +4,7 @@
   "display": "Lightbulb Icon",
   "description": "Lightbulb Icon",
   "import_from": "terra-icon/lib/icon/IconLightbulb",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

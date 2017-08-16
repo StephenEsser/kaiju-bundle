@@ -4,7 +4,7 @@
   "display": "Separate Icon",
   "description": "Separate Icon",
   "import_from": "terra-icon/lib/icon/IconSeparate",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

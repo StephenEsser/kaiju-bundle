@@ -4,7 +4,7 @@
   "display": "Critical Icon",
   "description": "Critical Icon",
   "import_from": "terra-icon/lib/icon/IconCritical",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

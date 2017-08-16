@@ -3,7 +3,7 @@
   "library": "terra-alert",
   "display": "Alert",
   "description": "Provides a styled notification to the user",
-  "group": "Indicators",
+  "group": "Molecules::Other",
   "properties": {
     "title": {
       "type": "String"

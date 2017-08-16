@@ -3,7 +3,7 @@
   "library": "terra-text",
   "display": "Text Component",
   "description": "Component for displaying customizable text in UI",
-  "group": "Content",
+  "group": "Atoms::Other",
   "properties": {
     "color": {
       "type": "String"

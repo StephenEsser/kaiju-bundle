@@ -3,7 +3,7 @@
   "library": "terra-heading",
   "display": "Heading",
   "description": "Provides standard heading styles ( h1-h6 )",
-  "group": "Headers",
+  "group": "Atoms::Other",
   "properties": {
     "level": {
       "type": "Number",

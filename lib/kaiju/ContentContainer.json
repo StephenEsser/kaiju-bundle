@@ -3,7 +3,7 @@
   "library": "terra-content-container",
   "display": "Content Container",
   "description": "A structural component for arranging content with a header",
-  "group": "Components",
+  "group": "Molecules::Other",
   "properties": {
     "header": {
       "type": "Component"

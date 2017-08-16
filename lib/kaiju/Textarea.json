@@ -3,7 +3,7 @@
   "library": "terra-form",
   "display": "Textarea",
   "description": "A text area",
-  "group": "Forms",
+  "group": "Atoms::Forms",
   "import_from": "terra-form/lib/Textarea",
   "properties": {
     "value": {

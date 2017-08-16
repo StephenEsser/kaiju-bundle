@@ -4,7 +4,7 @@
   "display": "Add Person Icon",
   "description": "AddPerson Icon",
   "import_from": "terra-icon/lib/icon/IconAddPerson",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

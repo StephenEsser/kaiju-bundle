@@ -4,7 +4,7 @@
   "display": "Down Icon",
   "description": "Down Icon",
   "import_from": "terra-icon/lib/icon/IconDown",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

@@ -3,7 +3,7 @@
   "library": "terra-form",
   "display": "Field",
   "description": "A form container for arranging error, help, label, and value text",
-  "group": "Forms",
+  "group": "Atoms::Forms",
   "import_from": "terra-form/lib/Field",
   "properties": {
     "label": {

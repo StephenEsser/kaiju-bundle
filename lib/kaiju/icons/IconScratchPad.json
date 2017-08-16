@@ -4,7 +4,7 @@
   "display": "Scratch Pad Icon",
   "description": "ScratchPad Icon",
   "import_from": "terra-icon/lib/icon/IconScratchPad",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

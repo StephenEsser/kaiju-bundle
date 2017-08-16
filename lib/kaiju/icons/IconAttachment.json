@@ -4,7 +4,7 @@
   "display": "Attachment Icon",
   "description": "Attachment Icon",
   "import_from": "terra-icon/lib/icon/IconAttachment",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

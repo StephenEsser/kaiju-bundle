@@ -3,7 +3,7 @@
   "library": "terra-button",
   "display": "Button",
   "description": "Provides a way to trigger actions in the UI",
-  "group": "Buttons",
+  "group": "Atoms::Other",
   "properties": {
     "isBlock": {
       "type": "Bool",

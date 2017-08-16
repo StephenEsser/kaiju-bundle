@@ -4,7 +4,7 @@
   "display": "Help Icon",
   "description": "Help Icon",
   "import_from": "terra-icon/lib/icon/IconHelp",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

@@ -4,7 +4,7 @@
   "display": "Error Icon",
   "description": "Error Icon",
   "import_from": "terra-icon/lib/icon/IconError",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

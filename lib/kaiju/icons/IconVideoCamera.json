@@ -4,7 +4,7 @@
   "display": "Video Camera Icon",
   "description": "VideoCamera Icon",
   "import_from": "terra-icon/lib/icon/IconVideoCamera",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

@@ -4,7 +4,7 @@
   "display": "Minimize Icon",
   "description": "Minimize Icon",
   "import_from": "terra-icon/lib/icon/IconMinimize",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

@@ -3,7 +3,7 @@
   "library": "terra-list",
   "display": "List Item",
   "description": "A list item for managing selections and chevrons",
-  "group": "List",
+  "group": "Organisms::List",
   "import": "List",
   "properties": {
     "isSelected": {

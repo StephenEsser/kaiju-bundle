@@ -3,7 +3,7 @@
   "library": "terra-clinical-item-view",
   "display": "Item View",
   "description": "Organizes displays into rows and columns with optional start and end accessory elements",
-  "group": "Content",
+  "group": "Molecules::Item View",
   "properties": {
     "isTruncated": {
       "type": "Bool"

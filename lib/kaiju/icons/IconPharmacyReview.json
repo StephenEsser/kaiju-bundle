@@ -4,7 +4,7 @@
   "display": "Pharmacy Review Icon",
   "description": "PharmacyReview Icon",
   "import_from": "terra-icon/lib/icon/IconPharmacyReview",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

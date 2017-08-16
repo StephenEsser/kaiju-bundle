@@ -4,7 +4,7 @@
   "display": "Next Icon",
   "description": "Next Icon",
   "import_from": "terra-icon/lib/icon/IconNext",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"

@@ -4,7 +4,7 @@
   "display": "Featured Icon",
   "description": "Featured Icon",
   "import_from": "terra-icon/lib/icon/IconFeatured",
-  "group": "Icons",
+  "group": "Atoms::Icons",
   "properties": {
     "isBidi": {
       "type": "Bool"
