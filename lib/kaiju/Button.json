@@ -17,12 +17,13 @@
       "type": "Bool",
       "display": "Disabled"
     },
-    "href": {
-      "type": "String"
-    },
     "text": {
       "type": "String",
       "default": "Button"
+    },
+    "icon": {
+      "type": "Component",
+      "drop_zone": false
     },
     "variant": {
       "type": "String",
@@ -50,6 +51,9 @@
           "type": "String"
         }
       ]
+    },
+    "href": {
+      "type": "String"
     }
   }
 }
