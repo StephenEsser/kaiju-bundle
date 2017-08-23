@@ -19,47 +19,61 @@
       "schema": {
         "type": "Component"
       },
-      "default": [
-        {
-          "type": "terra-list::Item",
-          "props": {
-            "content": {
-              "type": "kaiju::Text",
-              "props": {
-                "text": "List item 1"
-              }
-            },
-            "hasChevron": true,
-            "isSelectable": true
-          }
-        },
-        {
-          "type": "terra-list::Item",
-          "props": {
-            "content": {
-              "type": "kaiju::Text",
-              "props": {
-                "text": "List item 2"
-              }
-            },
-            "hasChevron": true,
-            "isSelectable": true
-          }
-        },
-        {
-          "type": "terra-list::Item",
-          "props": {
-            "content": {
-              "type": "kaiju::Text",
-              "props": {
-                "text": "List item 3"
-              }
-            },
-            "hasChevron": true,
-            "isSelectable": true
-          }
-        }
-      ]
+      "default": [{
+					"type": "terra-list::Item",
+					"props": {
+						"content": {
+							"type": "terra-clinical-item-view::ItemView",
+							"props": {
+								"displays": [{
+									"type": "terra-clinical-item-display::ItemDisplay",
+									"props": {
+										"text": "Item 1"
+									}
+								}]
+							}
+						},
+						"hasChevron": true,
+						"isSelectable": true
+					}
+				},
+				{
+					"type": "terra-list::Item",
+					"props": {
+						"content": {
+							"type": "terra-clinical-item-view::ItemView",
+							"props": {
+								"displays": [{
+									"type": "terra-clinical-item-display::ItemDisplay",
+									"props": {
+										"text": "Item 2"
+									}
+								}]
+							}
+						},
+						"hasChevron": true,
+						"isSelectable": true
+					}
+				},
+				{
+					"type": "terra-list::Item",
+					"props": {
+						"content": {
+							"type": "terra-clinical-item-view::ItemView",
+							"props": {
+								"displays": [{
+									"type": "terra-clinical-item-display::ItemDisplay",
+									"props": {
+										"text": "Item 3"
+									}
+								}]
+							}
+						},
+						"hasChevron": true,
+						"isSelectable": true
+					}
+				}
+			]
     }
   }
 }
