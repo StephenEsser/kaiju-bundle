@@ -13,14 +13,16 @@
     },
     "isOpen": {
       "type": "Bool",
-      "display": "Open"
+      "display": "Open",
+      "default": true
     },
     "isFullscreen": {
       "type": "Bool",
       "display": "Full screen"
     },
     "fill": {
-      "type": "Bool"
+      "type": "Bool",
+      "default": true
     },
     "panelBehavior": {
       "type": "String",
