@@ -27,7 +27,7 @@
     "panelBehavior": {
       "type": "String",
       "form_type": "CodifiedList",
-      "default": "overlay",
+      "default": "squish",
       "options": [
         {
           "display": "Overlay",
