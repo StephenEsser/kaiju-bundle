@@ -3,7 +3,7 @@
   "library": "terra-form",
   "display": "Number Field",
   "description": "Number input element",
-  "group": "Atoms::Forms",
+  "group": "Molecules::Forms",
   "import_from": "terra-form/lib/NumberField",
   "properties": {
     "value": {
