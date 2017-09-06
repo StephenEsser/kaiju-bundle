@@ -27,6 +27,7 @@
     "terra-base": "^2.0.0",
     "terra-button": "^1.0.0",
     "terra-button-group": "^1.0.0",
+    "terra-card": "^1.0.0",
     "terra-clinical-action-header": "^1.0.0",
     "terra-clinical-detail-view": "^1.0.0",
     "terra-clinical-error-view": "^1.0.0",
