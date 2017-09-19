@@ -6,34 +6,29 @@
   "group": "Atoms::Other",
   "properties": {
     "lineWidth": {
-      "type": "String",
+      "type": "Number",
       "form_type": "CodifiedList",
-      "default": "1",
+      "default": "2",
       "options": [
-        {
-          "display": "Default",
-          "value": "2",
-          "type": "String"
-        },
         {
           "display": "Extra fine",
           "value": "1",
-          "type": "String"
+          "type": "Number"
         },
         {
           "display": "Fine",
           "value": "2",
-          "type": "String"
+          "type": "Number"
         },
         {
           "display": "Medium",
           "value": "4",
-          "type": "String"
+          "type": "Number"
         },
         {
           "display": "Heavy",
           "value": "6",
-          "type": "String"
+          "type": "Number"
         }
       ]
     }
