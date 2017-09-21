@@ -9,6 +9,10 @@
       "type": "String",
       "default": "Title"
     },
+    "isSubheader": {
+      "type": "Bool",
+      "display": "Subheader"
+    },
     "startContent": {
       "type": "Component",
       "drop_zone": false
