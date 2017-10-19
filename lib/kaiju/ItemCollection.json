@@ -50,6 +50,10 @@
                "display":"Striped",
                "default": false
             }
+         },
+         "default": {
+           "isPadded": false,
+           "isStriped": false
          }
       },
       "listStyles":{
@@ -65,6 +69,10 @@
                "display":"Chevrons",
                "default": false
             }
+         },
+         "default": {
+           "isDivided": false,
+           "hasChevrons": false
          }
       },
       "rows":{
