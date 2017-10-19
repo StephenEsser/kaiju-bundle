@@ -1,0 +1,212 @@
+{
+   "name":"ItemCollection",
+   "library":"terra-clinical-item-collection",
+   "display":"Item Collection",
+   "description":"Responsively displays data as a table or a list",
+   "group":"Molecules::Other",
+   "properties":{
+      "breakpoint":{
+         "type":"String",
+         "form_type":"CodifiedList",
+         "default":"small",
+         "options":[
+            {
+               "display":"Tiny",
+               "value":"tiny",
+               "type":"String"
+            },
+            {
+               "display":"Small",
+               "value":"small",
+               "type":"String"
+            },
+            {
+               "display":"Medium",
+               "value":"medium",
+               "type":"String"
+            },
+            {
+               "display":"Large",
+               "value":"large",
+               "type":"String"
+            },
+            {
+               "display":"Huge",
+               "value":"huge",
+               "type":"String"
+            }
+         ]
+      },
+      "tableStyles":{
+         "type":"Hash",
+         "schema":{
+            "isPadded":{
+               "type":"Bool",
+               "display":"Padded"
+            },
+            "isStriped":{
+               "type":"Bool",
+               "display":"Striped"
+            }
+         }
+      },
+      "listStyles":{
+         "type":"Hash",
+         "schema":{
+            "isDivided":{
+               "type":"Bool",
+               "display":"Divided"
+            },
+            "hasChevrons":{
+               "type":"Bool",
+               "display":"Chevrons"
+            }
+         }
+      },
+      "rows":{
+         "type":"Array",
+         "schema":{
+            "type":"Hash",
+            "schema":{
+               "startAccessory":{
+                  "type":"Component",
+                  "drop_zone":false
+               },
+               "displays":{
+                  "type":"Array",
+                  "schema":{
+                     "type":"Component",
+                     "drop_zone":false
+                  }
+               },
+               "comment":{
+                  "type":"Component",
+                  "drop_zone":false
+               },
+               "endAccessory":{
+                  "type":"Component",
+                  "drop_zone":false
+               },
+               "isSelected":{
+                  "type":"Bool",
+                  "display":"Selected"
+               },
+               "itemStyles":{
+                  "type":"Hash",
+                  "schema":{
+                     "layout":{
+                        "type":"String",
+                        "form_type":"CodifiedList",
+                        "default":"oneColumn",
+                        "options":[
+                           {
+                              "display":"One Column",
+                              "value":"oneColumn",
+                              "type":"String"
+                           },
+                           {
+                              "display":"Two Columns",
+                              "value":"twoColumns",
+                              "type":"String"
+                           }
+                        ]
+                     },
+                     "textEmphasis":{
+                        "type":"String",
+                        "form_type":"CodifiedList",
+                        "default":"default",
+                        "options":[
+                           {
+                              "display":"default",
+                              "value":"default",
+                              "type":"String"
+                           },
+                           {
+                              "display":"Start",
+                              "value":"start",
+                              "type":"String"
+                           }
+                        ]
+                     },
+                     "isTruncated":{
+                        "type":"Bool",
+                        "display":"Truncated"
+                     },
+                     "accessoryAlignment":{
+                        "type":"String",
+                        "form_type":"CodifiedList",
+                        "default":"default",
+                        "options":[
+                           {
+                              "display":"Align Top",
+                              "value":"alignTop",
+                              "type":"String"
+                           },
+                           {
+                              "display":"Align Center",
+                              "value":"alignCenter",
+                              "type":"String"
+                           }
+                        ]
+                     }
+                  }
+               }
+            }
+         },
+         "default": [
+           {
+             "displays": [{
+               "type": "terra-clinical-item-display::ItemDisplay",
+               "props": {
+                 "text": "Item 1"
+               }
+             },
+             {
+               "type": "terra-clinical-item-display::ItemDisplay",
+               "props": {
+                 "text": "Item 2"
+               }
+             },
+             {
+               "type": "terra-clinical-item-display::ItemDisplay",
+               "props": {
+                 "text": "Item 3"
+               }
+             },
+             {
+               "type": "terra-clinical-item-display::ItemDisplay",
+               "props": {
+                 "text": "Item 4"
+               }
+             }]
+           },
+           {
+             "displays": [{
+               "type": "terra-clinical-item-display::ItemDisplay",
+               "props": {
+                 "text": "Item 1"
+               }
+             },
+             {
+               "type": "terra-clinical-item-display::ItemDisplay",
+               "props": {
+                 "text": "Item 2"
+               }
+             },
+             {
+               "type": "terra-clinical-item-display::ItemDisplay",
+               "props": {
+                 "text": "Item 3"
+               }
+             },
+             {
+               "type": "terra-clinical-item-display::ItemDisplay",
+               "props": {
+                 "text": "Item 4"
+               }
+             }]
+           }
+         ]
+      }
+   }
+}
