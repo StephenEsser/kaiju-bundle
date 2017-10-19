@@ -42,11 +42,13 @@
          "schema":{
             "isPadded":{
                "type":"Bool",
-               "display":"Padded"
+               "display":"Padded",
+               "default": false
             },
             "isStriped":{
                "type":"Bool",
-               "display":"Striped"
+               "display":"Striped",
+               "default": false
             }
          }
       },
@@ -55,11 +57,13 @@
          "schema":{
             "isDivided":{
                "type":"Bool",
-               "display":"Divided"
+               "display":"Divided",
+               "default": false
             },
             "hasChevrons":{
                "type":"Bool",
-               "display":"Chevrons"
+               "display":"Chevrons",
+               "default": false
             }
          }
       },
