@@ -23,6 +23,12 @@
       "schema": {
         "type": "Component"
       }
+    },
+    "subtitles": {
+      "type": "Array",
+      "schema": {
+        "type": "String"
+      }
     }
   }
 }

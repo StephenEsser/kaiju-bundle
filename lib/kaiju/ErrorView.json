@@ -3,7 +3,7 @@
   "library": "terra-clinical-error-view",
   "display": "Error View",
   "description": "Displays an error message",
-  "group": "Templates",
+  "group": "Templates::Other",
   "properties": {
     "name": {
       "type": "String",
