@@ -3,7 +3,7 @@
   "library": "terra-clinical-detail-view",
   "display": "Detail View",
   "description": "Displays text at different levels of importance",
-  "group": "Templates",
+  "group": "Templates::DetailView",
   "properties": {
     "title": {
       "type": "String",
