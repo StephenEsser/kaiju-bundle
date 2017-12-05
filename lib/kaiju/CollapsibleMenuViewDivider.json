@@ -4,5 +4,7 @@
 	"display": "Menu divider",
 	"description": "A dividing line between menu items",
 	"group": "Molecules::Collapsible Menu View",
-	"import": "CollapsibleMenuView"
+	"import": "CollapsibleMenuView",
+	"properties": {
+	}
 }
