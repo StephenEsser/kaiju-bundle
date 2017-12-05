@@ -1,7 +1,7 @@
 {
 	"name": "Item",
 	"library": "terra-collapsible-menu-view",
-	"display": "Collapsible Menu View Item",
+	"display": "Menu Item",
 	"description": "A collapsing menu item",
 	"group": "Molecules::Collapsible Menu View",
 	"import": "CollapsibleMenuView",
