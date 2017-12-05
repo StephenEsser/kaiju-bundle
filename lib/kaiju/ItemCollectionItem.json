@@ -1,7 +1,7 @@
 {
    "name":"Item",
    "library":"terra-clinical-item-collection",
-   "display":"Collection Item",
+   "display":"Item Collection Item",
    "description":"A collection item",
    "group":"Molecules::Item Collection",
    "import":"ItemCollection",
