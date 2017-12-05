@@ -3,8 +3,79 @@
    "library":"terra-clinical-item-collection",
    "display":"Item Collection",
    "description":"Responsively displays data as a table or a list",
-   "group":"Molecules::Other",
+   "group":"Molecules::Item Collection",
    "properties":{
+      "numberOfDisplays":{
+         "type":"Number",
+         "display":"Display columns",
+         "form_type":"CodifiedList",
+         "options":[
+            {
+               "display":"1",
+               "value":"1",
+               "type":"Number"
+            },
+            {
+               "display":"2",
+               "value":"2",
+               "type":"Number"
+            },
+            {
+               "display":"3",
+               "value":"3",
+               "type":"Number"
+            },
+            {
+               "display":"4",
+               "value":"4",
+               "type":"Number"
+            },
+            {
+               "display":"5",
+               "value":"5",
+               "type":"Number"
+            },
+            {
+               "display":"6",
+               "value":"6",
+               "type":"Number"
+            },
+            {
+               "display":"7",
+               "value":"7",
+               "type":"Number"
+            },
+            {
+               "display":"8",
+               "value":"8",
+               "type":"Number"
+            }
+         ]
+      },
+      "hasStartAccessory":{
+         "type":"Bool",
+         "display":"Start accessory column"
+      },
+      "hasEndAccessory":{
+         "type":"Bool",
+         "display":"End accessory column"
+      },
+      "hasComment":{
+         "type":"Bool",
+         "display":"Comment column"
+      },
+      "isTablePadded":{
+         "type":"Bool",
+         "display":"Padded Table"
+      },
+      "isTableStriped":{
+         "type":"Bool",
+         "display":"Striped Table"
+      },
+      "isListDivided":{
+         "type":"Bool",
+         "display":"Divided List"
+      },
       "breakpoint":{
          "type":"String",
          "form_type":"CodifiedList",
@@ -37,187 +108,25 @@
             }
          ]
       },
-      "tableStyles":{
-         "type":"Hash",
-         "schema":{
-            "isPadded":{
-               "type":"Bool",
-               "display":"Padded",
-               "default": false
-            },
-            "isStriped":{
-               "type":"Bool",
-               "display":"Striped",
-               "default": false
-            }
-         },
-         "default": {
-           "isPadded": false,
-           "isStriped": false
-         }
-      },
-      "listStyles":{
-         "type":"Hash",
-         "schema":{
-            "isDivided":{
-               "type":"Bool",
-               "display":"Divided",
-               "default": false
-            },
-            "hasChevrons":{
-               "type":"Bool",
-               "display":"Chevrons",
-               "default": false
-            }
-         },
-         "default": {
-           "isDivided": false,
-           "hasChevrons": false
-         }
-      },
-      "rows":{
+      "children":{
          "type":"Array",
          "schema":{
-            "type":"Hash",
-            "schema":{
-               "startAccessory":{
-                  "type":"Component",
-                  "drop_zone":false
-               },
-               "displays":{
-                  "type":"Array",
-                  "schema":{
-                     "type":"Component",
-                     "drop_zone":false
-                  }
-               },
-               "comment":{
-                  "type":"Component",
-                  "drop_zone":false
-               },
-               "endAccessory":{
-                  "type":"Component",
-                  "drop_zone":false
-               },
-               "isSelected":{
-                  "type":"Bool",
-                  "display":"Selected"
-               },
-               "itemStyles":{
-                  "type":"Hash",
-                  "schema":{
-                     "layout":{
-                        "type":"String",
-                        "form_type":"CodifiedList",
-                        "default":"oneColumn",
-                        "options":[
-                           {
-                              "display":"One Column",
-                              "value":"oneColumn",
-                              "type":"String"
-                           },
-                           {
-                              "display":"Two Columns",
-                              "value":"twoColumns",
-                              "type":"String"
-                           }
-                        ]
-                     },
-                     "textEmphasis":{
-                        "type":"String",
-                        "form_type":"CodifiedList",
-                        "default":"default",
-                        "options":[
-                           {
-                              "display":"default",
-                              "value":"default",
-                              "type":"String"
-                           },
-                           {
-                              "display":"Start",
-                              "value":"start",
-                              "type":"String"
-                           }
-                        ]
-                     },
-                     "isTruncated":{
-                        "type":"Bool",
-                        "display":"Truncated"
-                     },
-                     "accessoryAlignment":{
-                        "type":"String",
-                        "form_type":"CodifiedList",
-                        "default":"default",
-                        "options":[
-                           {
-                              "display":"Align Top",
-                              "value":"alignTop",
-                              "type":"String"
-                           },
-                           {
-                              "display":"Align Center",
-                              "value":"alignCenter",
-                              "type":"String"
-                           }
-                        ]
+            "type":"Component"
+         },
+         "default":[
+            {
+               "type":"terra-clinical-item-collection::Item",
+               "props":{
+                  "children":[
+                     {
+                        "type":"terra-clinical-item-display::ItemDisplay",
+                        "props":{
+                           "text":"Item 4"
+                        }
                      }
-                  }
+                  ]
                }
             }
-         },
-         "default": [
-           {
-             "displays": [{
-               "type": "terra-clinical-item-display::ItemDisplay",
-               "props": {
-                 "text": "Item 1"
-               }
-             },
-             {
-               "type": "terra-clinical-item-display::ItemDisplay",
-               "props": {
-                 "text": "Item 2"
-               }
-             },
-             {
-               "type": "terra-clinical-item-display::ItemDisplay",
-               "props": {
-                 "text": "Item 3"
-               }
-             },
-             {
-               "type": "terra-clinical-item-display::ItemDisplay",
-               "props": {
-                 "text": "Item 4"
-               }
-             }]
-           },
-           {
-             "displays": [{
-               "type": "terra-clinical-item-display::ItemDisplay",
-               "props": {
-                 "text": "Item 1"
-               }
-             },
-             {
-               "type": "terra-clinical-item-display::ItemDisplay",
-               "props": {
-                 "text": "Item 2"
-               }
-             },
-             {
-               "type": "terra-clinical-item-display::ItemDisplay",
-               "props": {
-                 "text": "Item 3"
-               }
-             },
-             {
-               "type": "terra-clinical-item-display::ItemDisplay",
-               "props": {
-                 "text": "Item 4"
-               }
-             }]
-           }
          ]
       }
    }
