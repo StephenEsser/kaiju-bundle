@@ -1,19 +1,19 @@
 {
-	"name": "Group",
+	"name": "ItemGroup",
 	"library": "terra-collapsible-menu-view",
-	"display": "Collapsible Menu View Group",
-	"description": "A menu group",
+	"display": "Menu group",
+	"description": "A collapsing menu group",
 	"group": "Molecules::Collapsible Menu View",
 	"import": "CollapsibleMenuView",
 	"properties": {
 		"isSelectable": {
-			"type": "Boolean"
+			"type": "Bool"
 		},
 		"children": {
-			"type": "Array",
-			"schema": {
-				"type": "Component"
-			}
-		}
+      "type": "Array",
+      "schema":{
+        "type": "Component"
+      }
+    }
 	}
 }
