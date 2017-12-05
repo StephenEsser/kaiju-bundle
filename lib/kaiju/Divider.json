@@ -1,0 +1,9 @@
+{
+	"name": "Divider",
+	"library": "terra-divider",
+	"display": "Divider",
+	"description": "A divider to separate content",
+	"group": "Atoms::Other",
+	"properties": {
+	}
+}
