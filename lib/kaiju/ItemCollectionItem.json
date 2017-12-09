@@ -14,6 +14,23 @@
          "type":"Component",
          "drop_zone":false
       },
+      "accessoryAlignment":{
+         "type":"String",
+         "form_type":"CodifiedList",
+         "default":"default",
+         "options":[
+            {
+               "display":"Align Top",
+               "value":"alignTop",
+               "type":"String"
+            },
+            {
+               "display":"Align Center",
+               "value":"alignCenter",
+               "type":"String"
+            }
+         ]
+      },
       "comment":{
          "type":"Component",
          "drop_zone":false
@@ -25,6 +42,9 @@
       "isSelectable":{
          "type":"Bool",
          "display":"Selectable"
+      },
+      "showListItemChevron": {
+        "type": "Bool"
       },
       "listItemLayout":{
          "type":"String",
@@ -65,23 +85,6 @@
       "isListItemTruncated":{
          "type":"Bool",
          "display":"Truncated"
-      },
-      "accessoryAlignment":{
-         "type":"String",
-         "form_type":"CodifiedList",
-         "default":"default",
-         "options":[
-            {
-               "display":"Align Top",
-               "value":"alignTop",
-               "type":"String"
-            },
-            {
-               "display":"Align Center",
-               "value":"alignCenter",
-               "type":"String"
-            }
-         ]
       },
       "children":{
          "type":"Array",
