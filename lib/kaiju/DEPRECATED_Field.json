@@ -1,36 +1,36 @@
 {
-  "hidden":true,
-  "name":"Field",
-  "library":"terra-form",
-  "display":"Deprecated Field",
-  "description":"A form container for arranging error, help, label, and value text",
-  "group":"Atoms::Forms",
-  "import_from":"terra-form/lib/Field",
-  "properties":{
-    "label":{
-      "type":"String",
-      "default":"Label"
+  "hidden": true,
+  "name": "Field",
+  "library": "terra-form",
+  "display": "Deprecated Field",
+  "description": "A form container for arranging error, help, label, and value text",
+  "group": "Atoms::Forms",
+  "import_from": "terra-form/lib/Field",
+  "properties": {
+    "label": {
+      "type": "String",
+      "default": "Label"
     },
-    "error":{
-      "type":"String"
+    "error": {
+      "type": "String"
     },
-    "help":{
-      "type":"String"
+    "help": {
+      "type": "String"
     },
-    "htmlFor":{
-      "type":"String"
+    "htmlFor": {
+      "type": "String"
     },
-    "isInline":{
-      "type":"Bool",
-      "display":"Inline"
+    "isInline": {
+      "type": "Bool",
+      "display": "Inline"
     },
-    "required":{
-      "type":"Bool"
+    "required": {
+      "type": "Bool"
     },
-    "children":{
-      "type":"Array",
-      "schema":{
-        "type":"Component"
+    "children": {
+      "type": "Array",
+      "schema": {
+        "type": "Component"
       }
     }
   }

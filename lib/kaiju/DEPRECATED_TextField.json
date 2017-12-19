@@ -1,43 +1,43 @@
 {
-  "hidden":true,
-  "name":"TextField",
-  "library":"terra-form",
-  "display":"Deprecated Text Field",
-  "description":"Provides a standard Input with an optional label, error, and help property",
-  "group":"Molecules::Forms",
-  "import_from":"terra-form/lib/TextField",
-  "properties":{
-    "value":{
-      "type":"String"
+  "hidden": true,
+  "name": "TextField",
+  "library": "terra-form",
+  "display": "Deprecated Text Field",
+  "description": "Provides a standard Input with an optional label, error, and help property",
+  "group": "Molecules::Forms",
+  "import_from": "terra-form/lib/TextField",
+  "properties": {
+    "value": {
+      "type": "String"
     },
-    "minLength":{
-      "type":"Number"
+    "minLength": {
+      "type": "Number"
     },
-    "maxLength":{
-      "type":"Number"
+    "maxLength": {
+      "type": "Number"
     },
-    "label":{
-      "type":"String",
-      "default":"Label"
+    "label": {
+      "type": "String",
+      "default": "Label"
     },
-    "error":{
-      "type":"String"
+    "error": {
+      "type": "String"
     },
-    "help":{
-      "type":"String"
+    "help": {
+      "type": "String"
     },
-    "name":{
-      "type":"String"
+    "name": {
+      "type": "String"
     },
-    "inputId":{
-      "type":"String"
+    "inputId": {
+      "type": "String"
     },
-    "required":{
-      "type":"Bool"
+    "required": {
+      "type": "Bool"
     },
-    "isInline":{
-      "type":"Bool",
-      "display":"Inline"
+    "isInline": {
+      "type": "Bool",
+      "display": "Inline"
     }
   }
 }

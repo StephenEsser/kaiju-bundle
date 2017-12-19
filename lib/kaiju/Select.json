@@ -1,52 +1,52 @@
 {
-  "name":"Select",
-  "library":"terra-form-select",
-  "display":"Select",
-  "description":"A dropdown of selectable options",
-  "group":"Atoms::Forms",
-  "properties":{
-    "isInvalid":{
-      "type":"Bool",
-      "display":"Invalid"
+  "name": "Select",
+  "library": "terra-form-select",
+  "display": "Select",
+  "description": "A dropdown of selectable options",
+  "group": "Atoms::Forms",
+  "properties": {
+    "isInvalid": {
+      "type": "Bool",
+      "display": "Invalid"
     },
-    "disabled":{
-      "type":"Bool"
+    "disabled": {
+      "type": "Bool"
     },
-    "required":{
-      "type":"Bool"
+    "required": {
+      "type": "Bool"
     },
-    "name":{
-      "type":"String"
+    "name": {
+      "type": "String"
     },
-    "defaultValue":{
-      "type":"String",
-      "default":"apple"
+    "defaultValue": {
+      "type": "String",
+      "default": "apple"
     },
-    "children":{
-      "type":"Array",
-      "schema":{
-        "type":"Component"
+    "children": {
+      "type": "Array",
+      "schema": {
+        "type": "Component"
       },
-      "default":[
+      "default": [
         {
-          "type":"terra-form-select::Option",
-          "props":{
-            "display":"Apple",
-            "value":"apple"
+          "type": "terra-form-select::Option",
+          "props": {
+            "display": "Apple",
+            "value": "apple"
           }
         },
         {
-          "type":"terra-form-select::Option",
-          "props":{
-            "display":"Pear",
-            "value":"pear"
+          "type": "terra-form-select::Option",
+          "props": {
+            "display": "Pear",
+            "value": "pear"
           }
         },
         {
-          "type":"terra-form-select::Option",
-          "props":{
-            "display":"Orange",
-            "value":"orange"
+          "type": "terra-form-select::Option",
+          "props": {
+            "display": "Orange",
+            "value": "orange"
           }
         }
       ]

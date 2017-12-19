@@ -8,7 +8,7 @@
   "properties": {
     "children": {
       "type": "Array",
-      "schema":{
+      "schema": {
         "type": "Component"
       }
     },

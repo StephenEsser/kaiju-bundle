@@ -52,7 +52,7 @@
     },
     "children": {
       "type": "Array",
-      "schema":{
+      "schema": {
         "type": "Component",
         "drop_zone": false
       }

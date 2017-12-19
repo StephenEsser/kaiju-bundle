@@ -1,51 +1,51 @@
 {
-  "name":"Field",
-  "library":"terra-form-field",
-  "display":"Field",
-  "description":"A form container for arranging error, help, label, and value text",
-  "group":"Atoms::Forms",
-  "properties":{
-    "isInline":{
-      "type":"Bool",
-      "display":"Inline"
+  "name": "Field",
+  "library": "terra-form-field",
+  "display": "Field",
+  "description": "A form container for arranging error, help, label, and value text",
+  "group": "Atoms::Forms",
+  "properties": {
+    "isInline": {
+      "type": "Bool",
+      "display": "Inline"
     },
-    "isInvalid":{
-      "type":"Bool",
-      "display":"Invalid"
+    "isInvalid": {
+      "type": "Bool",
+      "display": "Invalid"
     },
-    "required":{
-      "type":"Bool"
+    "required": {
+      "type": "Bool"
     },
-    "hideRequired":{
-      "type":"Bool"
+    "hideRequired": {
+      "type": "Bool"
     },
-    "showOptional":{
-      "type":"Bool"
+    "showOptional": {
+      "type": "Bool"
     },
-    "isLabelHidden":{
-      "type":"Bool",
-      "display":"Hide Label"
+    "isLabelHidden": {
+      "type": "Bool",
+      "display": "Hide Label"
     },
-    "label":{
-      "type":"String"
+    "label": {
+      "type": "String"
     },
-    "error":{
-      "type":"String"
+    "error": {
+      "type": "String"
     },
-    "errorIcon":{
-      "type":"Component",
-      "drop_zone":false
+    "errorIcon": {
+      "type": "Component",
+      "drop_zone": false
     },
-    "help":{
-      "type":"String"
+    "help": {
+      "type": "String"
     },
-    "htmlFor":{
-      "type":"String"
+    "htmlFor": {
+      "type": "String"
     },
-    "children":{
-      "type":"Array",
-      "schema":{
-        "type":"Component"
+    "children": {
+      "type": "Array",
+      "schema": {
+        "type": "Component"
       }
     }
   }

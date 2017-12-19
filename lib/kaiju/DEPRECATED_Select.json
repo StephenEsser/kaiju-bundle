@@ -1,46 +1,46 @@
 {
-  "hidden":true,
-  "name":"Select",
-  "library":"terra-form",
-  "display":"Deprecated Select",
-  "description":"A dropdown of selectable options",
-  "group":"Atoms::Forms",
-  "import_from":"terra-form/lib/Select",
-  "properties":{
-    "required":{
-      "type":"Bool"
+  "hidden": true,
+  "name": "Select",
+  "library": "terra-form",
+  "display": "Deprecated Select",
+  "description": "A dropdown of selectable options",
+  "group": "Atoms::Forms",
+  "import_from": "terra-form/lib/Select",
+  "properties": {
+    "required": {
+      "type": "Bool"
     },
-    "name":{
-      "type":"String"
+    "name": {
+      "type": "String"
     },
-    "defaultValue":{
-      "type":"String"
+    "defaultValue": {
+      "type": "String"
     },
-    "options":{
-      "type":"Array",
-      "schema":{
-        "type":"Hash",
-        "schema":{
-          "display":{
-            "type":"String"
+    "options": {
+      "type": "Array",
+      "schema": {
+        "type": "Hash",
+        "schema": {
+          "display": {
+            "type": "String"
           },
-          "value":{
-            "type":"String"
+          "value": {
+            "type": "String"
           }
         }
       },
-      "default":[
+      "default": [
         {
-          "display":"Apple",
-          "value":"apple"
+          "display": "Apple",
+          "value": "apple"
         },
         {
-          "display":"Pear",
-          "value":"pear"
+          "display": "Pear",
+          "value": "pear"
         },
         {
-          "display":"Orange",
-          "value":"orange"
+          "display": "Orange",
+          "value": "orange"
         }
       ]
     }
