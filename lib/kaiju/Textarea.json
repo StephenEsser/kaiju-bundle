@@ -1,19 +1,58 @@
 {
   "name": "Textarea",
-  "library": "terra-form",
+  "library": "terra-form-textarea",
   "display": "Textarea",
   "description": "A text area",
   "group": "Atoms::Forms",
-  "import_from": "terra-form/lib/Textarea",
   "properties": {
-    "value": {
+    "required": {
+      "type": "Bool"
+    },
+    "disabled": {
+      "type": "Bool"
+    },
+    "isAutoResizable": {
+      "type": "Bool"
+    },
+    "isInvalid": {
+      "type": "Bool",
+      "display": "Invalid"
+    },
+    "defaultValue": {
       "type": "String"
+    },
+    "rows": {
+      "type": "Number"
+    },
+    "size": {
+      "type": "String",
+      "form_type": "CodifiedList",
+      "default": "small",
+      "options": [
+        {
+          "display": "small",
+          "value": "small",
+          "type": "String"
+        },
+        {
+          "display": "medium",
+          "value": "medium",
+          "type": "String"
+        },
+        {
+          "display": "large",
+          "value": "large",
+          "type": "String"
+        },
+        {
+          "display": "full",
+          "value": "full",
+          "type": "String"
+        }
+      ]
     },
     "name": {
       "type": "String"
-    },
-    "required": {
-      "type": "Bool"
     }
   }
 }

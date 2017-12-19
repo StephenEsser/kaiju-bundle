@@ -1,35 +1,51 @@
 {
-  "name": "Field",
-  "library": "terra-form",
-  "display": "Field",
-  "description": "A form container for arranging error, help, label, and value text",
-  "group": "Atoms::Forms",
-  "import_from": "terra-form/lib/Field",
-  "properties": {
-    "label": {
-      "type": "String",
-      "default": "Label"
+  "name":"Field",
+  "library":"terra-form-field",
+  "display":"Field",
+  "description":"A form container for arranging error, help, label, and value text",
+  "group":"Atoms::Forms",
+  "properties":{
+    "isInline":{
+      "type":"Bool",
+      "display":"Inline"
     },
-    "error": {
-      "type": "String"
+    "isInvalid":{
+      "type":"Bool",
+      "display":"Invalid"
     },
-    "help": {
-      "type": "String"
+    "required":{
+      "type":"Bool"
     },
-    "htmlFor": {
-      "type": "String"
+    "hideRequired":{
+      "type":"Bool"
     },
-    "isInline": {
-      "type": "Bool",
-      "display": "Inline"
+    "showOptional":{
+      "type":"Bool"
     },
-    "required": {
-      "type": "Bool"
+    "isLabelHidden":{
+      "type":"Bool",
+      "display":"Hide Label"
     },
-    "children": {
-      "type": "Array",
-      "schema": {
-        "type": "Component"
+    "label":{
+      "type":"String"
+    },
+    "error":{
+      "type":"String"
+    },
+    "errorIcon":{
+      "type":"Component",
+      "drop_zone":false
+    },
+    "help":{
+      "type":"String"
+    },
+    "htmlFor":{
+      "type":"String"
+    },
+    "children":{
+      "type":"Array",
+      "schema":{
+        "type":"Component"
       }
     }
   }
