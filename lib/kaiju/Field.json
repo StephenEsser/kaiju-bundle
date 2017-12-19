@@ -27,7 +27,8 @@
       "display": "Hide Label"
     },
     "label": {
-      "type": "String"
+      "type": "String",
+      "default": "Label"
     },
     "error": {
       "type": "String"
